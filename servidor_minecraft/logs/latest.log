@@ -3238,3 +3238,7 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 17:04:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Voluntary Exile]
 [29Nov2024 17:19:47.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
 [29Nov2024 17:19:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[29Nov2024 18:01:36.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:61369] logged in with entity id 60759 at (-1545.699999988079, 4.0, 4164.017393422267)
+[29Nov2024 18:01:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[29Nov2024 18:01:36.385] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[29Nov2024 18:02:17.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -11.917934002745142,14.120621643589395,-11.191233989133252
