@@ -3235,3 +3235,4 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 16:45:58.882] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
 [29Nov2024 16:47:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Boots Are Mine!]
 [29Nov2024 16:47:14.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -1255.41656754219,-65.67647087614428,3336.1307995187444
+[29Nov2024 17:04:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Voluntary Exile]

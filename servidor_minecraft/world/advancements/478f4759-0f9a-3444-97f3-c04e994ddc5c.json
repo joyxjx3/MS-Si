@@ -2342,6 +2342,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-11-20 20:57:33 +0000",
+      "minecraft:pillager": "2024-11-29 17:04:14 +0000",
       "minecraft:skeleton": "2024-11-19 01:37:17 +0000",
       "minecraft:spider": "2024-11-20 20:18:17 +0000",
       "minecraft:creeper": "2024-11-22 19:16:29 +0000",
@@ -9971,6 +9972,24 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2024-11-29 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-11-29 17:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-29 17:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-11-29 17:06:15 +0000"
     },
     "done": true
   },
