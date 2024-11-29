@@ -3236,3 +3236,5 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 16:47:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Boots Are Mine!]
 [29Nov2024 16:47:14.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -1255.41656754219,-65.67647087614428,3336.1307995187444
 [29Nov2024 17:04:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Voluntary Exile]
+[29Nov2024 17:19:47.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[29Nov2024 17:19:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
