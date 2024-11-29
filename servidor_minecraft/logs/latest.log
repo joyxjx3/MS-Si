@@ -3269,3 +3269,6 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 18:40:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DannBear1024 has made the advancement [Voluntary Exile]
 [29Nov2024 18:40:57.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83198, l='ServerLevel[MaricoElQueSeDañe]', x=-179.50, y=75.26, z=317.50] died, message: 'Unemployed was shot by Pillager'
 [29Nov2024 18:41:08.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83200, l='ServerLevel[MaricoElQueSeDañe]', x=-185.50, y=75.26, z=317.50] died, message: 'Unemployed was shot by Pillager'
+[29Nov2024 18:50:03.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 0.07399786849069301,-11.151887030367476,0.02757339474527498
+[29Nov2024 18:58:50.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[29Nov2024 18:58:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game

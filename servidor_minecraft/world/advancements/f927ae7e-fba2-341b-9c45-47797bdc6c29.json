@@ -14661,6 +14661,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-11-29 18:48:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2024-11-29 16:05:47 +0000"
