@@ -14653,6 +14653,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "liveroot_block": "2024-11-29 17:38:37 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2024-11-29 16:05:47 +0000"
