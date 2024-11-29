@@ -3251,3 +3251,7 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 18:13:37.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:65169] logged in with entity id 66080 at (91.16491485610422, 83.125, 462.9468205118176)
 [29Nov2024 18:13:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [29Nov2024 18:13:37.375] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[29Nov2024 18:18:28.478] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID 91c2da0f-cc61-47bc-a98a-b7bd29246242
+[29Nov2024 18:18:28.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1554 Y: -4 Z: 4159
+[29Nov2024 18:18:28.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was burnt to a crisp whilst fighting Zombie
+[29Nov2024 18:20:42.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Zombie
