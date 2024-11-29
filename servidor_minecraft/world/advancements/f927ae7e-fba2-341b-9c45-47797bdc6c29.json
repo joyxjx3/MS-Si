@@ -14654,22 +14654,21 @@
     },
     "done": true
   },
-  "twilightforest:arborist": {
-    "criteria": {
-      "liveroot_block": "2024-11-29 17:38:37 +0000",
-      "root": "2024-11-29 18:03:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-11-29 18:48:34 +0000"
-    },
-    "done": true
-  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2024-11-29 16:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-11-29 16:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-11-29 16:07:54 +0000"
     },
     "done": true
   },
@@ -14685,39 +14684,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2024-11-29 16:07:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-11-29 16:46:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-11-29 18:35:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-11-29 18:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-11-29 18:23:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:hill1": {
-    "criteria": {
-      "redcap": "2024-11-29 16:47:00 +0000"
     },
     "done": true
   },
@@ -14733,15 +14702,28 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+  "twilightforest:hill1": {
     "criteria": {
-      "has_item": "2024-11-29 18:35:12 +0000"
+      "redcap": "2024-11-29 16:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "twilightforest:arborist": {
     "criteria": {
-      "has_diamond_ore": "2024-11-29 16:07:54 +0000"
+      "liveroot_block": "2024-11-29 17:38:37 +0000",
+      "root": "2024-11-29 18:03:49 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-11-29 18:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 18:23:32 +0000"
     },
     "done": true
   },
@@ -14754,6 +14736,24 @@
   "travelersbackpack:recipes/misc/cake_smithing": {
     "criteria": {
       "has_cake": "2024-11-29 18:34:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:35:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-11-29 18:48:34 +0000"
     },
     "done": true
   },

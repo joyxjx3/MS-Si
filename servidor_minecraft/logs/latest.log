@@ -3272,3 +3272,11 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 18:50:03.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 0.07399786849069301,-11.151887030367476,0.02757339474527498
 [29Nov2024 18:58:50.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
 [29Nov2024 18:58:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[29Nov2024 19:06:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DannBear1024 has made the advancement [Hostile Paradise]
+[29Nov2024 19:06:15.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -10.08509911609309,0.604424101326714,-0.21905710547216017
+[29Nov2024 19:06:15.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[29Nov2024 19:08:19.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[29Nov2024 19:08:19.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[29Nov2024 19:17:07.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:55904] logged in with entity id 99559 at (-314.39073298069343, 70.5625, 261.0814004915598)
+[29Nov2024 19:17:07.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[29Nov2024 19:17:07.573] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
