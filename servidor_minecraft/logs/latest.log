@@ -3220,3 +3220,4 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 16:03:24.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=-1524, y=5, z=3882} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
 [29Nov2024 16:05:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Alex's Mobs]
 [29Nov2024 16:05:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Silence of the Forest]
+[29Nov2024 16:22:39.841] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
