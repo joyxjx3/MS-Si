@@ -3255,3 +3255,17 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 18:18:28.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1554 Y: -4 Z: 4159
 [29Nov2024 18:18:28.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was burnt to a crisp whilst fighting Zombie
 [29Nov2024 18:20:42.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Zombie
+[29Nov2024 18:25:03.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 15.472927828287993,4.520083640428567,-16.53992710176044
+[29Nov2024 18:26:28.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 10.83668891497895,6.8484708019395555,2.8502576344666295
+[29Nov2024 18:30:30.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -19.18634637771168,5.2177538982425915,-1.7142302608203295
+[29Nov2024 18:30:56.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -9.136854225455863,10.465392864721323,13.556859942645588
+[29Nov2024 18:30:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -0.8281592594792073,-12.262358999312141,1.3180854316406112
+[29Nov2024 18:30:58.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -12.926321678629847,11.170360533875595,19.02802270272514
+[29Nov2024 18:32:21.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -2.30468944380209,-9.902031737902124,4.208085012797255
+[29Nov2024 18:36:28.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -12.38915227053485,4.192171477849229,-2.6369799654855797
+[29Nov2024 18:39:58.709] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID 9ecd21a7-451b-41cf-9f73-0819006e3a39
+[29Nov2024 18:39:58.710] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -166 Y: 75 Z: 310
+[29Nov2024 18:39:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Vindicator
+[29Nov2024 18:40:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DannBear1024 has made the advancement [Voluntary Exile]
+[29Nov2024 18:40:57.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83198, l='ServerLevel[MaricoElQueSeDañe]', x=-179.50, y=75.26, z=317.50] died, message: 'Unemployed was shot by Pillager'
+[29Nov2024 18:41:08.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83200, l='ServerLevel[MaricoElQueSeDañe]', x=-185.50, y=75.26, z=317.50] died, message: 'Unemployed was shot by Pillager'

@@ -6511,6 +6511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
@@ -6523,9 +6529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/red_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-29 18:21:40 +0000"
     },
     "done": true
   },
@@ -6547,6 +6565,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/corner_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
@@ -6562,6 +6586,12 @@
   "createdeco:recipes/decorations/decal_cross": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6583,9 +6613,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/tiled_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_iron_lamp": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-11-29 18:21:40 +0000"
     },
     "done": true
   },
@@ -6595,9 +6637,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/short_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-11-29 18:38:20 +0000"
     },
     "done": true
   },
@@ -6607,9 +6667,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/green_iron_lamp": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6631,9 +6703,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/magenta_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-11-29 18:23:53 +0000"
     },
     "done": true
   },
@@ -6649,9 +6733,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/churro": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 18:28:59 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fire": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-11-29 18:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-29 18:28:52 +0000"
     },
     "done": true
   },
@@ -6661,15 +6763,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-11-29 18:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 18:28:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-11-29 18:30:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-11-29 18:38:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/decorations/kettle": {
+    "criteria": {
+      "has_brick": "2024-11-29 18:25:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:36:14 +0000"
     },
     "done": true
   },
@@ -6682,6 +6850,12 @@
   "createdeco:recipes/decorations/iron_catwalk_forge": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6703,6 +6877,24 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/corner_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 18:30:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
@@ -6715,9 +6907,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/tiled_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_blasting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_skull": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6733,9 +6943,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_moss_block": {
+    "criteria": {
+      "hasitem": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_flow": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6745,9 +6967,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_vine": {
+    "criteria": {
+      "hasitem": "2024-11-29 18:20:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-11-29 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-11-29 18:25:54 +0000"
     },
     "done": true
   },
@@ -6769,15 +7009,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 18:30:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:36:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brown_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },
@@ -6796,6 +7054,24 @@
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2024-11-29 18:12:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2024-11-29 18:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-11-29 18:25:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-11-29 18:20:22 +0000"
     },
     "done": true
   },

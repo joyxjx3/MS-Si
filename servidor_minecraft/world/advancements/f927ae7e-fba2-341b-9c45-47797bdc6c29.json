@@ -3871,6 +3871,7 @@
       "minecraft:pillager": "2024-11-21 14:19:52 +0000",
       "minecraft:skeleton": "2024-11-20 03:47:07 +0000",
       "minecraft:hoglin": "2024-11-20 00:16:41 +0000",
+      "minecraft:vindicator": "2024-11-29 18:38:59 +0000",
       "minecraft:magma_cube": "2024-11-20 21:19:55 +0000",
       "minecraft:spider": "2024-11-20 03:42:18 +0000",
       "minecraft:creeper": "2024-11-21 02:50:29 +0000",
@@ -14690,6 +14691,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:35:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-11-29 18:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 18:23:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2024-11-29 16:47:00 +0000"
@@ -14708,9 +14727,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-29 18:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-11-29 16:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 18:23:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2024-11-29 18:34:26 +0000"
     },
     "done": true
   },
