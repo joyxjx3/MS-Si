@@ -3224,3 +3224,14 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 16:22:49.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18560ms or 371 ticks behind
 [29Nov2024 16:33:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [The Silence of the Forest]
 [29Nov2024 16:33:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [The Boots Are Mine!]
+[29Nov2024 16:43:20.008] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID dacd7640-0e03-4b99-8f82-308eafad77ea
+[29Nov2024 16:43:20.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1544 Y: -4 Z: 4141
+[29Nov2024 16:43:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 was slain by Kobold
+[29Nov2024 16:43:21.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Timed out
+[29Nov2024 16:43:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[29Nov2024 16:43:21.506] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 16:45:58.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:57553] logged in with entity id 37752 at (-1544.6331145961897, -4.0, 4141.300000011921)
+[29Nov2024 16:45:58.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[29Nov2024 16:45:58.882] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[29Nov2024 16:47:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Boots Are Mine!]
+[29Nov2024 16:47:14.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -1255.41656754219,-65.67647087614428,3336.1307995187444
