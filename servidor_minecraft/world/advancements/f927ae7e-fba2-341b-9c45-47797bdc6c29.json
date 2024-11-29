@@ -14655,7 +14655,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "liveroot_block": "2024-11-29 17:38:37 +0000"
+      "liveroot_block": "2024-11-29 17:38:37 +0000",
+      "root": "2024-11-29 18:03:49 +0000"
     },
     "done": false
   },

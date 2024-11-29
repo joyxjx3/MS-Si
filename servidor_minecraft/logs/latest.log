@@ -3242,3 +3242,12 @@ java.nio.file.NoSuchFileException: /workspaces/MS-Si/servidor_minecraft/schemati
 [29Nov2024 18:01:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [29Nov2024 18:01:36.385] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
 [29Nov2024 18:02:17.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -11.917934002745142,14.120621643589395,-11.191233989133252
+[29Nov2024 18:07:43.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DannBear1024[/172.26.26.36:59767] logged in with entity id 63903 at (-290.9607748397797, 74.0, 179.83240579131618)
+[29Nov2024 18:07:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DannBear1024 joined the game
+[29Nov2024 18:07:43.336] [Server thread/INFO] [Jade/]: Syncing config to DannBear1024 (dadd4465-de9a-3abd-91e5-7d901da475f9)
+[29Nov2024 18:09:22.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Timed out
+[29Nov2024 18:09:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[29Nov2024 18:13:13.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f357f3[id=<null>,name=joyxjx3,properties={},legacy=false] (/172.26.184.143:65113) lost connection: Disconnected
+[29Nov2024 18:13:37.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:65169] logged in with entity id 66080 at (91.16491485610422, 83.125, 462.9468205118176)
+[29Nov2024 18:13:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[29Nov2024 18:13:37.375] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
