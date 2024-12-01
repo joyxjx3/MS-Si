@@ -1726,6 +1726,7 @@
       "minecraft:deep_ocean": "2024-11-22 19:40:46 +0000",
       "minecraft:eroded_badlands": "2024-11-22 19:47:29 +0000",
       "minecraft:cherry_grove": "2024-11-21 20:06:30 +0000",
+      "minecraft:sunflower_plains": "2024-12-01 21:44:49 +0000",
       "minecraft:birch_forest": "2024-11-22 19:42:13 +0000",
       "minecraft:bamboo_jungle": "2024-11-21 21:05:47 +0000",
       "minecraft:badlands": "2024-11-22 19:49:02 +0000",
@@ -10037,15 +10038,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_stone_from_pillar_stonecutting": {
+  "aether:recipes/combat/zanite_ring_repairing": {
     "criteria": {
-      "has_pillar": "2024-12-01 21:40:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_light_angelic_stone": "2024-12-01 21:40:37 +0000"
+      "has_zanite_ring": "2024-12-01 21:40:10 +0000"
     },
     "done": true
   },
@@ -10055,21 +10050,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2024-12-01 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_stonecutting": {
+    "criteria": {
+      "has_pillar": "2024-12-01 21:40:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_top_from_pillar_stonecutting": {
     "criteria": {
       "has_pillar": "2024-12-01 21:40:35 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_ring_repairing": {
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
     "criteria": {
-      "has_zanite_ring": "2024-12-01 21:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/poison_dart": {
-    "criteria": {
-      "has_golden_dart": "2024-12-01 21:40:15 +0000"
+      "has_light_angelic_stone": "2024-12-01 21:40:37 +0000"
     },
     "done": true
   },
