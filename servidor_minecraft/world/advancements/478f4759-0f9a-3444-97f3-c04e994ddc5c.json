@@ -9995,6 +9995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-11-29 18:19:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-11-29 18:22:42 +0000"
@@ -10013,9 +10019,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_lapis_block": "2024-11-29 18:19:25 +0000"
+      "has_emerald_block": "2024-12-01 19:27:15 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/golden_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-01 19:31:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-01 19:31:22 +0000"
     },
     "done": true
   },
