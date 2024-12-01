@@ -3200,3 +3200,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 20:44:53.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:54790] logged in with entity id 76 at (-56.007855074477526, 78.0, 547.9841818353459)
 [01Dec2024 20:44:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [01Dec2024 20:44:53.515] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[01Dec2024 21:33:28.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:49170] logged in with entity id 24337 at (-314.5, 70.0, 260.5)
+[01Dec2024 21:33:28.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[01Dec2024 21:33:28.484] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
