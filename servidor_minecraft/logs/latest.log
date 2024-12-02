@@ -3206,3 +3206,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 20:05:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [02Dec2024 20:05:15.956] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
 [02Dec2024 20:08:20.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 13.685106950041515,8.824101342326585,2.1327471175034702
+[02Dec2024 20:08:50.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! -8.492323698526313,0.5782444529154986,-11.245539974450821
+[02Dec2024 20:11:13.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[02Dec2024 20:11:13.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[02Dec2024 20:12:34.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:57070] logged in with entity id 43396 at (50.30000001192093, 54.0, 93.30000001192093)
+[02Dec2024 20:12:34.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[02Dec2024 20:12:34.954] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[02Dec2024 20:13:46.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[02Dec2024 20:13:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[02Dec2024 20:13:46.205] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
