@@ -3185,3 +3185,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 18:22:55.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:54236] logged in with entity id 78 at (100.74198569814828, 101.0, 444.3115320722551)
 [02Dec2024 18:22:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [02Dec2024 18:22:55.325] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[02Dec2024 18:26:51.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[02Dec2024 18:26:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[02Dec2024 18:29:50.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:54340] logged in with entity id 706 at (95.3468311790417, 101.1875, 454.7058331052806)
+[02Dec2024 18:29:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[02Dec2024 18:29:50.757] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[02Dec2024 18:36:36.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:50636] logged in with entity id 3115 at (-313.5, 70.0, 262.5)
+[02Dec2024 18:36:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[02Dec2024 18:36:36.353] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
