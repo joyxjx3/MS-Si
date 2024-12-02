@@ -3203,3 +3203,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 14:30:55.531] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID 21655636-eef2-44d1-9752-f67a6b2c9d80
 [02Dec2024 14:30:55.533] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 4 Y: 129 Z: 752
 [02Dec2024 14:30:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 suffocated in a wall whilst fighting Valkyrie
+[02Dec2024 14:44:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has reached the goal [Lore-Ception!]
+[02Dec2024 14:50:52.168] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID 61ff162a-7054-4f12-9e36-d0e3c33d74ea
+[02Dec2024 14:50:52.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 18 Y: 139 Z: 744
+[02Dec2024 14:50:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 was slain by Valkyrie
