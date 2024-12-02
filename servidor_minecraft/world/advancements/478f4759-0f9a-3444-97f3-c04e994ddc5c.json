@@ -10097,6 +10097,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2024-12-02 15:08:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2024-12-02 14:55:21 +0000"
