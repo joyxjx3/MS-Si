@@ -3193,3 +3193,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 18:36:36.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:50636] logged in with entity id 3115 at (-313.5, 70.0, 262.5)
 [02Dec2024 18:36:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [02Dec2024 18:36:36.353] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[02Dec2024 18:37:59.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved wrongly!
+[02Dec2024 18:39:08.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved wrongly!
+[02Dec2024 18:44:10.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 11.867573342724896,6.3849475239826745,8.240540990706279
