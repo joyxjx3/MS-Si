@@ -10055,6 +10055,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-02 15:01:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_stone_from_pillar_stonecutting": {
     "criteria": {
       "has_pillar": "2024-12-02 14:35:26 +0000"
@@ -10076,6 +10082,12 @@
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2024-12-02 14:26:56 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_helmet": "2024-12-02 15:02:07 +0000"
     },
     "done": true
   },
@@ -10172,6 +10184,12 @@
   "aether:recipes/combat/poison_dart": {
     "criteria": {
       "has_golden_dart": "2024-12-02 14:26:56 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-02 15:02:21 +0000"
     },
     "done": true
   },

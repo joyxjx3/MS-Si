@@ -3207,3 +3207,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 14:50:52.168] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID 61ff162a-7054-4f12-9e36-d0e3c33d74ea
 [02Dec2024 14:50:52.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 18 Y: 139 Z: 744
 [02Dec2024 14:50:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 was slain by Valkyrie
+[02Dec2024 15:01:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has reached the goal [Dethroned]
+[02Dec2024 15:02:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has reached the goal [Earning your Wings]
+[02Dec2024 15:02:21.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Battle Hardened]
