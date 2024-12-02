@@ -3199,3 +3199,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 18:51:26.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved wrongly!
 [02Dec2024 18:53:37.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -1255.481187576517,-65.92159999847412,3335.7792788591305
 [02Dec2024 19:03:24.498] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/ventiladores.nbt
+[02Dec2024 19:24:05.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[02Dec2024 19:24:05.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
