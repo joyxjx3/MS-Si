@@ -3200,3 +3200,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 13:57:45.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:53379] logged in with entity id 81 at (90.07971272051958, 83.0, 466.2578949215011)
 [02Dec2024 13:57:45.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [02Dec2024 13:57:45.663] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[02Dec2024 14:30:55.531] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID 21655636-eef2-44d1-9752-f67a6b2c9d80
+[02Dec2024 14:30:55.533] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 4 Y: 129 Z: 752
+[02Dec2024 14:30:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 suffocated in a wall whilst fighting Valkyrie
