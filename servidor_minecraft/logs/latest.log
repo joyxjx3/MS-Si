@@ -3201,3 +3201,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 19:03:24.498] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/ventiladores.nbt
 [02Dec2024 19:24:05.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
 [02Dec2024 19:24:05.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[02Dec2024 19:34:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Is It Time?]

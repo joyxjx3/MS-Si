@@ -15407,6 +15407,12 @@
     },
     "done": true
   },
+  "create:cuckoo_clock": {
+    "criteria": {
+      "0": "2024-12-02 19:34:13 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/light_blueprint_block_from_light_blue_dye": {
     "criteria": {
       "has_dyed_item": "2024-12-02 18:55:24 +0000"
