@@ -3215,3 +3215,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 20:13:46.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
 [02Dec2024 20:13:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
 [02Dec2024 20:13:46.205] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 20:28:59.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Spooky Scary Skeleton]
