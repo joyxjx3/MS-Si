@@ -1751,6 +1751,7 @@
       "minecraft:flower_forest": "2024-11-19 00:32:18 +0000",
       "minecraft:frozen_peaks": "2024-11-21 20:11:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-21 20:58:10 +0000",
+      "minecraft:deep_dark": "2024-12-03 19:57:57 +0000",
       "minecraft:meadow": "2024-11-20 16:31:26 +0000",
       "minecraft:savanna": "2024-11-21 21:13:07 +0000",
       "minecraft:plains": "2024-11-19 00:24:14 +0000"
@@ -10236,9 +10237,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:familiar": {
     "criteria": {
       "familiar": "2024-12-03 19:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-03 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 19:55:03 +0000"
     },
     "done": true
   },
@@ -10248,9 +10267,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-03 20:00:42 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/spore_blossom_up": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 19:55:03 +0000"
     },
     "done": true
   },
@@ -10266,9 +10303,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-03 20:01:03 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-03 19:57:57 +0000"
     },
     "done": true
   },
@@ -10278,9 +10339,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-03 20:01:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_detection": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-03 19:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 19:55:03 +0000"
     },
     "done": true
   },
