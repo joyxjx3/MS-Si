@@ -10232,15 +10232,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/alt_blossom": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-03 20:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:51:46 +0000"
     },
     "done": true
   },
@@ -10262,6 +10286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2024-12-03 20:14:50 +0000"
@@ -10271,6 +10301,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-12-03 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/blueprint_block_from_blue_dye": {
+    "criteria": {
+      "has_dyed_item": "2024-12-03 20:51:46 +0000"
     },
     "done": true
   },
@@ -10316,6 +10352,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-12-03 20:14:14 +0000"
@@ -10331,6 +10373,18 @@
   "undergarden:recipes/decorations/depthrock_bed": {
     "criteria": {
       "has_mogmoss": "2024-12-03 20:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:51:46 +0000"
     },
     "done": true
   },
@@ -10370,6 +10424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 20:51:46 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/food/slop_bowl": {
     "criteria": {
       "has_mogmoss": "2024-12-03 20:29:35 +0000"
@@ -10379,6 +10439,12 @@
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:51:46 +0000"
     },
     "done": true
   },
