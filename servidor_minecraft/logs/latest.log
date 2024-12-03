@@ -3393,3 +3393,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 20:30:53.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [03Dec2024 20:30:54.074] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
 [03Dec2024 20:54:39.558] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/item_storage.nbt
+[03Dec2024 21:13:53.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[03Dec2024 21:13:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game

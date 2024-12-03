@@ -1723,6 +1723,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-03 21:18:26 +0000",
       "minecraft:deep_ocean": "2024-11-22 19:40:46 +0000",
       "minecraft:eroded_badlands": "2024-11-22 19:47:29 +0000",
       "minecraft:cherry_grove": "2024-11-21 20:06:30 +0000",
@@ -10262,6 +10263,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/skyroot_shovel_repairing": {
+    "criteria": {
+      "has_skyroot_shovel": "2024-12-03 21:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-03 20:51:46 +0000"
@@ -10295,6 +10302,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2024-12-03 20:14:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-03 21:18:52 +0000"
     },
     "done": true
   },
@@ -10349,6 +10362,12 @@
   "ars_elemental:recipes/misc/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-03 21:18:52 +0000"
     },
     "done": true
   },
@@ -10493,6 +10512,12 @@
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-03 21:18:52 +0000"
     },
     "done": true
   },
