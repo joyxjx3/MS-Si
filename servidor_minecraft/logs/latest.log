@@ -3208,3 +3208,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 21:57:16.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:54995] logged in with entity id 4427 at (-151.40055711899913, 84.0, 420.7785002002947)
 [03Dec2024 21:57:16.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [03Dec2024 21:57:16.661] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[03Dec2024 22:13:09.983] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at 4541 -56 -1168 in 2s
