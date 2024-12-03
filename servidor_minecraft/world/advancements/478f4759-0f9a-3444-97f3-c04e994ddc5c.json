@@ -10328,6 +10328,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/depthrock_bed": {
+    "criteria": {
+      "has_mogmoss": "2024-12-03 20:29:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2024-12-03 19:55:03 +0000"
@@ -10346,6 +10352,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/mogmoss_rug": {
+    "criteria": {
+      "has_mogmoss": "2024-12-03 20:29:35 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
@@ -10355,6 +10367,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2024-12-03 19:57:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/food/slop_bowl": {
+    "criteria": {
+      "has_mogmoss": "2024-12-03 20:29:35 +0000"
     },
     "done": true
   },
