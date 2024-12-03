@@ -10527,11 +10527,60 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-03 22:46:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-03 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-03 22:46:27 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_smoking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-03 22:46:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/mussel": {
     "criteria": {
       "mussel": "2024-12-03 22:38:40 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2024-12-03 22:41:04 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-03 22:46:27 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/goggle_leather_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-03 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2024-12-03 22:54:18 +0000",
+      "helmet": "2024-12-03 22:54:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
