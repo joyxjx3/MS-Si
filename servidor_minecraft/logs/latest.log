@@ -3888,3 +3888,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 00:06:18.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:52678] logged in with entity id 96 at (95.5, 101.0, 444.5)
 [03Dec2024 00:06:18.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
 [03Dec2024 00:06:18.797] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[03Dec2024 00:29:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Brazen]
+[03Dec2024 00:31:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has reached the goal [This Seems Familiar...]
+[03Dec2024 00:32:50.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[03Dec2024 00:32:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
