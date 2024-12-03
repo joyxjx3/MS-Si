@@ -10236,6 +10236,12 @@
     },
     "done": true
   },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2024-12-03 19:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
