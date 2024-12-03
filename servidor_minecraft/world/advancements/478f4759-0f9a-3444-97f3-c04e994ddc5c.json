@@ -10563,6 +10563,12 @@
     },
     "done": true
   },
+  "ars_elemental:caster_bag": {
+    "criteria": {
+      "has_caster_bag": "2024-12-03 23:04:23 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/cooked_tropical_fish": {
     "criteria": {
       "cooked_tropical_fish": "2024-12-03 22:46:27 +0000"

@@ -3249,3 +3249,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 22:54:52.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved wrongly!
 [03Dec2024 22:54:55.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 6.350619804439361,13.273903164082824,3.080266129330653
 [03Dec2024 22:54:57.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 moved too quickly! 19.0709770666719,9.795474643085129,5.861431283654099
+[03Dec2024 23:04:23.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Your portable arsenal]
+[03Dec2024 23:09:45.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Disconnected
+[03Dec2024 23:09:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
