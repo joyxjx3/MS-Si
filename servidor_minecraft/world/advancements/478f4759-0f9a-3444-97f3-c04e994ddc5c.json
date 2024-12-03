@@ -7822,7 +7822,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-11-24 01:48:48 +0000"
+      "in_better_zombie_dungeon": "2024-11-24 01:48:48 +0000",
+      "in_better_monster_room": "2024-12-03 20:14:14 +0000"
     },
     "done": false
   },
@@ -10294,6 +10295,12 @@
   "ars_elemental:recipes/misc/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-03 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-03 20:14:14 +0000"
     },
     "done": true
   },
