@@ -15533,12 +15533,6 @@
     },
     "done": true
   },
-  "undergarden:recipes/building_blocks/pebbles_to_depthrock": {
-    "criteria": {
-      "has_depthrock_pebble": "2024-12-03 20:31:21 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/decorations/depthrock_bed": {
     "criteria": {
       "has_mogmoss": "2024-12-03 20:31:19 +0000"
@@ -15554,6 +15548,36 @@
   "undergarden:recipes/food/slop_bowl": {
     "criteria": {
       "has_mogmoss": "2024-12-03 20:31:19 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/pebbles_to_depthrock": {
+    "criteria": {
+      "has_depthrock_pebble": "2024-12-03 20:31:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2024-12-03 22:01:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-03 22:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-03 22:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-03 22:01:07 +0000"
     },
     "done": true
   },
