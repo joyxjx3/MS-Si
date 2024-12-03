@@ -10224,21 +10224,9 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2024-12-03 00:29:49 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/alt_blossom": {
     "criteria": {
       "has_journal": "2024-12-03 00:20:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:familiar": {
-    "criteria": {
-      "familiar": "2024-12-03 00:31:46 +0000"
     },
     "done": true
   },
@@ -10293,6 +10281,18 @@
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2024-12-03 00:20:05 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2024-12-03 00:29:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2024-12-03 00:31:46 +0000"
     },
     "done": true
   },
