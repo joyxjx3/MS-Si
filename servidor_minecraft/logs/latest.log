@@ -3215,3 +3215,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 22:25:28.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:50476] logged in with entity id 17558 at (-140.05000001192093, -59.0, -44.69999998807907)
 [03Dec2024 22:25:28.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [03Dec2024 22:25:28.623] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[03Dec2024 22:37:49.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> AMOR
+[03Dec2024 22:37:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> MIMIDOS UnU}
+[03Dec2024 22:38:40.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Bring Forth The Mollusk]
+[03Dec2024 22:38:59.039] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joyxjx3 with unique ID ec4adcb8-f071-4dcc-bab3-282b471da38b
+[03Dec2024 22:38:59.042] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -6230 Y: 63 Z: 1538
+[03Dec2024 22:38:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 was blown up by Mine Guardian
+[03Dec2024 22:41:04.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 has made the advancement [Diamonds of the Sea]
