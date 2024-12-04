@@ -3193,3 +3193,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 00:06:49.686] [Server thread/INFO] [com.drmangotea.tfmg.CreateTFMG/]: YEEEHAAW
 [04Dec2024 00:06:49.701] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [04Dec2024 00:06:49.708] [Server thread/WARN] [ModernFix/]: Dedicated server took 44.79 seconds to load
+[04Dec2024 00:17:38.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:53960] logged in with entity id 145 at (-153.04237703782155, -51.0, -68.69999998807907)
+[04Dec2024 00:17:38.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[04Dec2024 00:17:39.054] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
