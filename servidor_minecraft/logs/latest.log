@@ -3200,3 +3200,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 01:03:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
 [04Dec2024 01:03:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
 [04Dec2024 01:04:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[04Dec2024 01:13:01.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joyxjx3[/172.26.184.143:54137] logged in with entity id 5367 at (97.57592389495636, 101.0, 454.86250001192093)
+[04Dec2024 01:13:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 joined the game
+[04Dec2024 01:13:01.542] [Server thread/INFO] [Jade/]: Syncing config to joyxjx3 (478f4759-0f9a-3444-97f3-c04e994ddc5c)
+[04Dec2024 01:13:12.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]

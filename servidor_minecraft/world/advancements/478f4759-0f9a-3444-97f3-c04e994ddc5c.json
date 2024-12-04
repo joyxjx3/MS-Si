@@ -10527,15 +10527,33 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+  "alexscaves:alexscaves/mussel": {
     "criteria": {
-      "has_tropical_fish": "2024-12-03 22:46:27 +0000"
+      "mussel": "2024-12-03 22:38:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2024-12-03 22:41:04 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2024-12-03 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/goggle_leather_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-03 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-03 22:46:27 +0000"
     },
     "done": true
   },
@@ -10551,33 +10569,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2024-12-03 22:38:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/pearl": {
-    "criteria": {
-      "pearl": "2024-12-03 22:41:04 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:caster_bag": {
-    "criteria": {
-      "has_caster_bag": "2024-12-03 23:04:23 +0000"
-    },
-    "done": true
-  },
   "crabbersdelight:recipes/food/cooked_tropical_fish": {
     "criteria": {
       "cooked_tropical_fish": "2024-12-03 22:46:27 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/goggle_leather_helmet": {
-    "criteria": {
-      "has_helmet": "2024-12-03 22:41:32 +0000"
     },
     "done": true
   },
@@ -10587,6 +10581,12 @@
       "helmet": "2024-12-03 22:54:16 +0000"
     },
     "done": false
+  },
+  "ars_elemental:caster_bag": {
+    "criteria": {
+      "has_caster_bag": "2024-12-03 23:04:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
