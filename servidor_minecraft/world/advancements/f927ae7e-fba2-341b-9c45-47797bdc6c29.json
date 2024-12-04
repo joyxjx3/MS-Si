@@ -15719,5 +15719,137 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2024-12-04 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_aluminium_compat_ic2": {
+    "criteria": {
+      "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_door": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2024-12-04 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_aluminium_compat_ic2": {
+    "criteria": {
+      "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2024-12-04 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
