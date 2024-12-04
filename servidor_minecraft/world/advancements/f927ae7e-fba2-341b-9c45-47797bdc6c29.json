@@ -15677,15 +15677,15 @@
     },
     "done": true
   },
-  "createmetallurgy:foundry_basin": {
+  "createmetallurgy:casting_blocks": {
     "criteria": {
-      "have_lid": "2024-12-04 02:03:59 +0000"
+      "have_casting_blocks": "2024-12-04 02:02:19 +0000"
     },
     "done": true
   },
-  "create:mechanical_mixer": {
+  "createmetallurgy:foundry_basin": {
     "criteria": {
-      "0": "2024-12-04 02:10:36 +0000"
+      "have_lid": "2024-12-04 02:03:59 +0000"
     },
     "done": true
   },
@@ -15701,15 +15701,15 @@
     },
     "done": true
   },
-  "tfmg:recipes/decorations/cast_iron_ladder_from_ingots_cast_iron_stonecutting": {
+  "create:mechanical_mixer": {
     "criteria": {
-      "has_ingots_cast_iron": "2024-12-04 02:18:40 +0000"
+      "0": "2024-12-04 02:10:36 +0000"
     },
     "done": true
   },
-  "createmetallurgy:casting_blocks": {
+  "tfmg:recipes/decorations/cast_iron_ladder_from_ingots_cast_iron_stonecutting": {
     "criteria": {
-      "have_casting_blocks": "2024-12-04 02:02:19 +0000"
+      "has_ingots_cast_iron": "2024-12-04 02:18:40 +0000"
     },
     "done": true
   },
