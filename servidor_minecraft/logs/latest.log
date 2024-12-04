@@ -3196,3 +3196,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 02:28:33.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:54608] logged in with entity id 157 at (-140.330273914245, -52.799999952316284, -57.96485473386028)
 [04Dec2024 02:28:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [04Dec2024 02:28:33.553] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[04Dec2024 04:11:12.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [An Alloy To Remember]
+[04Dec2024 04:11:28.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Tungsten Age]
+[04Dec2024 04:11:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Steel Age]
+[04Dec2024 04:12:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [What Now Is]

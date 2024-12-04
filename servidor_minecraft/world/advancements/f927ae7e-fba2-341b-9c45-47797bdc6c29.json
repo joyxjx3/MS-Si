@@ -15719,9 +15719,45 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/froststeel_sword": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_leggings": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_chestplate": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_shovel": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_pickaxe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
     },
     "done": true
   },
@@ -15749,6 +15785,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/cloggrum_lantern": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/lead_truss_from_ingots_lead_stonecutting": {
     "criteria": {
       "has_ingots_lead": "2024-12-04 03:51:34 +0000"
@@ -15761,9 +15803,33 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/cloggrum_sword": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/nickel_frame_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/cloggrum_block": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_helmet": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
     },
     "done": true
   },
@@ -15773,9 +15839,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/forgotten_sword_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_boots": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/nickel_truss_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:38 +0000"
     },
     "done": true
   },
@@ -15785,9 +15869,69 @@
     },
     "done": true
   },
+  "undergarden:recipes/building_blocks/froststeel_block": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/forgotten_block": {
+    "criteria": {
+      "has_forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/froststeel_hoe": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/misc/industrial_iron_block": {
     "criteria": {
       "has_industrial_iron_ingot": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_pickaxe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/cloggrum_ingot_to_nugget": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/cloggrum_tiles": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
     },
     "done": true
   },
@@ -15797,15 +15941,81 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/froststeel_shovel": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2024-12-04 04:11:12 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_axe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
     "criteria": {
       "has_ingots_steel": "2024-12-04 03:49:13 +0000"
     },
     "done": true
   },
+  "undergarden:recipes/misc/froststeel_ingot_to_nugget": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_chestplate": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_ingot_to_nugget": {
+    "criteria": {
+      "has_forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_hoe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_helmet": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/cloggrum_bars": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
     },
     "done": true
   },
@@ -15827,6 +16037,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/decorations/nickel_bars_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
@@ -15839,9 +16061,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/lead_frame_from_ingots_lead_stonecutting": {
     "criteria": {
       "has_ingots_lead": "2024-12-04 03:51:34 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_battleaxe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_shovel_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
     },
     "done": true
   },
@@ -15863,6 +16109,24 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/cloggrum_leggings": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/froststeel_pickaxe": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_axe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/decorations/lead_ladder_from_ingots_lead_stonecutting": {
     "criteria": {
       "has_ingots_lead": "2024-12-04 03:51:34 +0000"
@@ -15872,6 +16136,12 @@
   "create:recipes/misc/smelting/ingot_aluminium_compat_ic2": {
     "criteria": {
       "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/forgotten_ingot": {
+    "criteria": {
+      "has_forgotten_ingot": "2024-12-04 04:12:23 +0000"
     },
     "done": true
   },
@@ -15887,9 +16157,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/industrial_iron_window": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
     },
     "done": true
   },
@@ -15899,9 +16181,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_boots": {
+    "criteria": {
+      "has_cloggrum_ingot": "2024-12-04 04:11:44 +0000"
     },
     "done": true
   },
@@ -15911,9 +16211,51 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/forgotten_hoe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2024-12-04 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/froststeel_axe": {
+    "criteria": {
+      "has_froststeel_ingot": "2024-12-04 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "createmetallurgy:steel_age": {
+    "criteria": {
+      "have_steel_ingot": "2024-12-04 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_shield": {
+    "criteria": {
+      "has_scales": "2024-12-04 04:11:44 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
     "criteria": {
       "has_ingots_steel": "2024-12-04 03:49:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-04 04:11:43 +0000"
+    },
+    "done": true
+  },
+  "createmetallurgy:tungsten_age": {
+    "criteria": {
+      "have_tungsten_ingot": "2024-12-04 04:11:28 +0000"
     },
     "done": true
   },
