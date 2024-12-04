@@ -15677,6 +15677,30 @@
     },
     "done": true
   },
+  "createmetallurgy:foundry_basin": {
+    "criteria": {
+      "have_lid": "2024-12-04 02:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-04 02:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-04 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-04 02:05:41 +0000"
+    },
+    "done": true
+  },
   "createmetallurgy:casting_blocks": {
     "criteria": {
       "have_casting_blocks": "2024-12-04 02:02:19 +0000"
