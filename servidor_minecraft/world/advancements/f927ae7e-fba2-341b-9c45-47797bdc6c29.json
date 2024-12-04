@@ -15581,24 +15581,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
-    "criteria": {
-      "has_item": "2024-12-03 22:35:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2024-12-03 22:35:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-03 22:52:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2024-12-03 22:33:03 +0000"
@@ -15611,15 +15593,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-03 22:33:03 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2024-12-03 22:33:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
-      "has_slime_ball": "2024-12-03 22:52:55 +0000"
+      "has_polished_rose_quartz": "2024-12-03 22:33:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-03 22:33:13 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2024-12-03 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-03 22:35:04 +0000"
     },
     "done": true
   },
@@ -15635,27 +15641,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_polished_rose_quartz": "2024-12-03 22:33:13 +0000"
+      "has_slime_ball": "2024-12-03 22:52:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_rose_quartz": "2024-12-03 22:33:03 +0000"
+      "has_slime_ball": "2024-12-03 22:52:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-03 22:52:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-12-03 22:33:13 +0000"
     },
     "done": true
   },
