@@ -15677,5 +15677,11 @@
     },
     "done": true
   },
+  "createmetallurgy:casting_blocks": {
+    "criteria": {
+      "have_casting_blocks": "2024-12-04 02:02:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
