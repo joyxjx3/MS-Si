@@ -15749,15 +15749,33 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/lead_truss_from_ingots_lead_stonecutting": {
+    "criteria": {
+      "has_ingots_lead": "2024-12-04 03:51:34 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
     "criteria": {
       "has_ingots_aluminum": "2024-12-04 02:36:48 +0000"
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/nickel_frame_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_trapdoor": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/nickel_truss_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
     },
     "done": true
   },
@@ -15773,9 +15791,27 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/nickel_ladder_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-04 03:49:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-04 03:49:13 +0000"
     },
     "done": true
   },
@@ -15791,9 +15827,21 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/nickel_bars_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2024-12-04 03:51:39 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/lead_frame_from_ingots_lead_stonecutting": {
+    "criteria": {
+      "has_ingots_lead": "2024-12-04 03:51:34 +0000"
     },
     "done": true
   },
@@ -15815,6 +15863,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/lead_ladder_from_ingots_lead_stonecutting": {
+    "criteria": {
+      "has_ingots_lead": "2024-12-04 03:51:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/ingot_aluminium_compat_ic2": {
     "criteria": {
       "has_item": "2024-12-04 02:34:06 +0000"
@@ -15824,6 +15878,12 @@
   "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-04 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/lead_bars_from_ingots_lead_stonecutting": {
+    "criteria": {
+      "has_ingots_lead": "2024-12-04 03:51:34 +0000"
     },
     "done": true
   },
@@ -15848,6 +15908,12 @@
   "create:recipes/misc/blasting/ingot_aluminum_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2024-12-04 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-04 03:49:13 +0000"
     },
     "done": true
   },
