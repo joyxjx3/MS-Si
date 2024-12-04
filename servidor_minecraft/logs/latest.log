@@ -3209,3 +3209,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 02:03:59.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Metallurgy Expert]
 [04Dec2024 02:09:52.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joyxjx3 lost connection: Timed out
 [04Dec2024 02:09:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joyxjx3 left the game
+[04Dec2024 02:17:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[04Dec2024 02:17:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[04Dec2024 02:19:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
