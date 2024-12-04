@@ -3196,3 +3196,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 00:17:38.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/172.26.193.27:53960] logged in with entity id 145 at (-153.04237703782155, -51.0, -68.69999998807907)
 [04Dec2024 00:17:38.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [04Dec2024 00:17:39.054] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[04Dec2024 00:27:53.653] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/piso.nbt
