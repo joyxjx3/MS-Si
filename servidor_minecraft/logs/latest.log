@@ -4122,3 +4122,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 22:04:38.786] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID f35a6a5b-c106-4319-a1f6-ff2385571b6e
 [05Dec2024 22:04:38.787] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5735 Y: -32 Z: -1166
 [05Dec2024 22:04:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace fell from a high place
+[05Dec2024 22:06:40.303] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID 8521b385-ca3c-40c4-b1e3-62bd155e4d58
+[05Dec2024 22:06:40.304] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5732 Y: -33 Z: -1171
+[05Dec2024 22:06:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Vallumraptor
+[05Dec2024 22:07:15.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
+[05Dec2024 22:07:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
