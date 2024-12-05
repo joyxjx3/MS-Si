@@ -13135,7 +13135,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-11-24 01:48:07 +0000"
+      "in_better_zombie_dungeon": "2024-11-24 01:48:07 +0000",
+      "in_better_monster_room": "2024-12-05 19:41:43 +0000"
     },
     "done": false
   },
@@ -16754,6 +16755,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-05 19:33:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-05 19:41:43 +0000"
     },
     "done": true
   },
