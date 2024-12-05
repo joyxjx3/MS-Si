@@ -10712,15 +10712,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+      "avoid_vibration": "2024-12-05 19:48:51 +0000"
     },
     "done": true
   },
@@ -10730,57 +10724,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
@@ -10802,12 +10748,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/granite_castel_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
@@ -10817,18 +10757,6 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
@@ -10874,21 +10802,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2024-12-05 20:34:20 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-05 20:34:03 +0000"
     },
     "done": true
   },
@@ -10910,27 +10826,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
@@ -10940,21 +10838,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-12-05 19:48:51 +0000"
     },
     "done": true
   },
@@ -10988,27 +10874,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
@@ -11021,6 +10889,180 @@
   "design_decor:recipes/building_blocks/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 19:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
@@ -11048,18 +11090,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-05 20:25:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
@@ -11075,24 +11105,6 @@
   "design_decor:recipes/building_blocks/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-05 19:50:03 +0000"
     },
     "done": true
   },
@@ -11126,27 +11138,9 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
     },
     "done": true
   },
@@ -11162,33 +11156,39 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-05 19:50:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "design_decor:recipes/building_blocks/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_diorite": "2024-12-05 19:50:03 +0000"
+      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-05 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-05 20:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-12-05 20:34:20 +0000"
     },
     "done": true
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-05 20:48:21 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-12-05 19:50:15 +0000"
     },
     "done": true
   },

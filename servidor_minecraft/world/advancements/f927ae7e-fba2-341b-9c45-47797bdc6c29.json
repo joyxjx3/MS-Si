@@ -16748,6 +16748,18 @@
     },
     "done": true
   },
+  "ars_elemental:recipes/misc/tablet_ritual_repulsion": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/alt_blossom": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2024-12-05 20:36:47 +0000"
@@ -16772,9 +16784,75 @@
     },
     "done": true
   },
+  "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/spore_blossom_up": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/yellow_archwood": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-05 21:18:56 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-12-05 19:41:43 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/multimeter": {
+    "criteria": {
+      "has_compass": "2024-12-05 21:18:56 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/redstone/advanced_prism": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_detection": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_attraction": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/flight_alt": {
+    "criteria": {
+      "has_journal": "2024-12-05 21:19:00 +0000"
     },
     "done": true
   },
