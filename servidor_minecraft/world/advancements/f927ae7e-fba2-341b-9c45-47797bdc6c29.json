@@ -1729,6 +1729,7 @@
       "minecraft:cherry_grove": "2024-12-01 04:14:23 +0000",
       "minecraft:birch_forest": "2024-11-19 00:11:52 +0000",
       "minecraft:bamboo_jungle": "2024-11-25 22:47:24 +0000",
+      "minecraft:savanna_plateau": "2024-12-05 21:35:43 +0000",
       "minecraft:beach": "2024-11-19 02:17:11 +0000",
       "minecraft:dark_forest": "2024-11-19 00:11:54 +0000",
       "minecraft:mangrove_swamp": "2024-11-22 20:59:16 +0000",
@@ -16766,6 +16767,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-05 21:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-05 19:33:44 +0000"
@@ -16781,6 +16788,12 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2024-12-05 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-05 21:35:48 +0000"
     },
     "done": true
   },
@@ -16832,6 +16845,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-05 21:35:52 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
@@ -16847,6 +16866,12 @@
   "ars_elemental:recipes/misc/tablet_ritual_attraction": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-05 21:35:57 +0000"
     },
     "done": true
   },
