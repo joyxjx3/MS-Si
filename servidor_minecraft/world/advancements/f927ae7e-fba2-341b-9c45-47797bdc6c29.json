@@ -16755,9 +16755,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_slab_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/alt_blossom": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_packed_mud_stairs_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },
@@ -16767,9 +16779,33 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_packed_mud_bricks_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-05 21:35:48 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_bricks_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_packed_mud_brick_wall_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },
@@ -16779,9 +16815,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-05 21:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-05 19:33:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-05 21:57:57 +0000"
     },
     "done": true
   },
@@ -16797,9 +16845,27 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_brick_slab_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_stairs_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_wall_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },
@@ -16809,9 +16875,27 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_packed_mud_brick_slab_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_brick_wall_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_brick_stairs_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },
@@ -16839,6 +16923,24 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_packed_mud_slab_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_packed_mud_brick_stairs_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_packed_mud_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
@@ -16851,9 +16953,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/building_blocks/packed_mud_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/layered_packed_mud_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },
@@ -16863,9 +16977,27 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_packed_mud_wall_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/packed_mud_pillar_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_attraction": {
     "criteria": {
       "has_journal": "2024-12-05 21:19:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_packed_mud_from_stone_types_packed_mud_stonecutting": {
+    "criteria": {
+      "has_stone_types_packed_mud": "2024-12-05 21:57:34 +0000"
     },
     "done": true
   },

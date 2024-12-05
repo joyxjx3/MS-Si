@@ -4110,3 +4110,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 21:53:52.907] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID 11a7ca24-73ca-458f-8dde-8f11bd4b99d8
 [05Dec2024 21:53:52.908] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5725 Y: 69 Z: -1120
 [05Dec2024 21:53:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Enderman
+[05Dec2024 21:55:21.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID c9584c02-9748-4cac-b53f-5c4f92f08888
+[05Dec2024 21:55:21.620] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5732 Y: 63 Z: -1122
+[05Dec2024 21:55:21.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was shot by Skeleton
+[05Dec2024 21:56:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was shot by Skeleton
+[05Dec2024 21:57:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Town of Bedrock]
+[05Dec2024 21:59:38.605] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID 68286804-90bd-4888-b75b-40e768291eeb
+[05Dec2024 21:59:38.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5721 Y: 67 Z: -1098
+[05Dec2024 21:59:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Drowned
+[05Dec2024 21:59:53.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Drowned
+[05Dec2024 22:04:38.786] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CupcakeSpace with unique ID f35a6a5b-c106-4319-a1f6-ff2385571b6e
+[05Dec2024 22:04:38.787] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -5735 Y: -32 Z: -1166
+[05Dec2024 22:04:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace fell from a high place
