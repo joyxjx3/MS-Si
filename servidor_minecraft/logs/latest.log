@@ -3389,3 +3389,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 15:51:41.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8449ms or 168 ticks behind
 [27Aug2025 15:54:53.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [27Aug2025 16:00:00.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 16:07:22.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:57922] logged in with entity id 2530 at (-2689.0353350912887, 71.0, 3265.322925444359)
+[27Aug2025 16:07:22.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[27Aug2025 16:07:22.861] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[27Aug2025 16:12:08.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 16:13:44.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2668, y=70, z=3259} BlockPos{x=-2669, y=69, z=3258}
+[27Aug2025 16:15:05.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelma
