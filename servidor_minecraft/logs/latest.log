@@ -3411,3 +3411,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 16:25:53.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -10.248114345810336,0.0,0.08200065802293466
 [27Aug2025 16:26:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelma
 [27Aug2025 16:29:33.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 16:38:05.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelma
+[27Aug2025 16:42:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Enchanter]
+[27Aug2025 16:42:51.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Begone, Flux]
+[27Aug2025 16:44:19.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[27Aug2025 16:44:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> JUEPUTA AHORA SI ME DIO LAG
