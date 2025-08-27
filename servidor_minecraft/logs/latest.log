@@ -3770,3 +3770,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 23:33:05.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:60584] logged in with entity id 47756 at (-2735.1996223143847, 71.0, 3245.8250838252125)
 [27Aug2025 23:33:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
 [27Aug2025 23:33:05.827] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[27Aug2025 23:42:37.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/48966, l='ServerLevel[world]', x=-3264.97, y=137.25, z=-4680.24] died: Honeyed Archer burned to death
