@@ -2615,6 +2615,7 @@
       "minecraft:beach": "2025-08-27 22:54:48 +0000",
       "minecraft:dark_forest": "2025-08-27 23:16:17 +0000",
       "minecraft:river": "2025-08-27 22:37:17 +0000",
+      "minecraft:swamp": "2025-08-27 23:19:04 +0000",
       "minecraft:forest": "2025-08-27 22:05:45 +0000",
       "minecraft:deep_cold_ocean": "2025-08-27 22:38:18 +0000",
       "minecraft:ocean": "2025-08-27 22:37:04 +0000",
@@ -4234,6 +4235,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-08-27 23:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-08-27 23:04:11 +0000"
@@ -4294,6 +4301,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-27 23:20:54 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -4306,6 +4319,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:husk": "2025-08-27 23:21:35 +0000"
+    },
+    "done": false
+  },
   "variantvanillablocks:recipes/decorations/jungle_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -4315,6 +4334,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-27 23:22:01 +0000"
     },
     "done": true
   },
@@ -4499,9 +4524,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-27 23:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-27 23:21:59 +0000"
     },
     "done": true
   },
@@ -4538,6 +4575,12 @@
   "candlelight:recipes/crimson_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-08-27 23:21:56 +0000"
     },
     "done": true
   },
@@ -4607,6 +4650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-27 23:21:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
@@ -4664,6 +4713,12 @@
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:21:59 +0000"
     },
     "done": true
   },
@@ -4727,6 +4782,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/goggle_turtle_helmet": {
+    "criteria": {
+      "has_helmet": "2025-08-27 23:21:35 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/decorations/warped_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -4742,6 +4803,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/dynamite": {
+    "criteria": {
+      "has_gunpowder": "2025-08-27 23:21:58 +0000"
     },
     "done": true
   },
@@ -4895,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-27 23:21:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -5039,6 +5112,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-27 23:21:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-27 22:44:56 +0000"
@@ -5093,6 +5172,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-27 23:21:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-08-27 23:21:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-08-27 23:21:59 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -5129,6 +5226,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-27 23:21:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 23:05:33 +0000"
@@ -5144,6 +5247,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-08-27 23:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:husk": "2025-08-27 23:21:35 +0000"
     },
     "done": true
   },
@@ -5186,6 +5295,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-27 23:21:58 +0000"
     },
     "done": true
   },

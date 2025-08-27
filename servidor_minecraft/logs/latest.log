@@ -3695,3 +3695,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 23:18:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> y ahoras?
 [27Aug2025 23:18:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> rodear
 [27Aug2025 23:18:30.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> a
+[27Aug2025 23:18:53.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved wrongly! 0.27534933219612867
+[27Aug2025 23:19:44.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved wrongly! 0.4174389784757295
+[27Aug2025 23:20:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> esta es mi explanada
+[27Aug2025 23:20:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> ah ya
+[27Aug2025 23:20:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> waystone
+[27Aug2025 23:20:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> cama
+[27Aug2025 23:20:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Sweet Dreams]
+[27Aug2025 23:21:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Monster Hunter]
+[27Aug2025 23:21:35.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Cheryl'/44319, l='ServerLevel[world]', x=-2697.68, y=71.00, z=3248.15] died: Cheryl was slain by Tetranutra
+[27Aug2025 23:21:35.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has completed the challenge [It Spreads]
+[27Aug2025 23:21:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has completed the challenge [He Wasn't So Strong]
+[27Aug2025 23:21:37.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was blown up by Creeper
+[27Aug2025 23:21:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Good Demoman]
+[27Aug2025 23:21:50.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> Xd
+[27Aug2025 23:21:56.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Not a Diamond]
+[27Aug2025 23:22:04.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> me tapa esa mierda
+[27Aug2025 23:22:05.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> que paso con el ano de abraham?
+[27Aug2025 23:22:15.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 23:23:29.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Nightmare Stalker
+[27Aug2025 23:23:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ah ya
+[27Aug2025 23:23:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> guardese
+[27Aug2025 23:23:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> m
+[27Aug2025 23:23:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
+[27Aug2025 23:23:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> xd
+[27Aug2025 23:23:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Nightmare Stalker
+[27Aug2025 23:24:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> maid duolingo
+[27Aug2025 23:24:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> corra
+[27Aug2025 23:24:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> La subtrama de Nergal
+[27Aug2025 23:24:32.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Nightmare Stalker
+[27Aug2025 23:24:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> que bonito
+[27Aug2025 23:24:46.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Nightmare Stalker
+[27Aug2025 23:24:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> muy bonito
+[27Aug2025 23:24:51.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ese bicho les dejo el ano como un tunel
+[27Aug2025 23:24:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
+[27Aug2025 23:25:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> xDDDDDDDDDDD
+[27Aug2025 23:25:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Nightmare Stalker
+[27Aug2025 23:25:18.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Disconnected
+[27Aug2025 23:25:18.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
+[27Aug2025 23:25:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> JAJAJAJAJAJAJAJAJAJAJAJAJJAJA
+[27Aug2025 23:25:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> JAJJAJAJAJAJAJAAJ
+[27Aug2025 23:25:30.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> AH papa peri
+[27Aug2025 23:25:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> que me les paso
+[27Aug2025 23:25:40.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> es una mrd
+[27Aug2025 23:25:40.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> de 4 pies de alt
+[27Aug2025 23:25:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hasta lag esta dando esa mierda
+[27Aug2025 23:25:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> mi pene tambien
+[27Aug2025 23:26:01.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 4.286568851911852,-1.0,8.995251251910304
+[27Aug2025 23:26:36.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 7.563593284306535,0.0,6.92333810587661
+[27Aug2025 23:26:59.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Timed out
+[27Aug2025 23:26:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[27Aug2025 23:26:59.378] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Aug2025 23:28:52.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:60391] logged in with entity id 46519 at (-2729.588125778063, 71.0, 3257.7674125166745)
+[27Aug2025 23:28:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[27Aug2025 23:28:52.137] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
