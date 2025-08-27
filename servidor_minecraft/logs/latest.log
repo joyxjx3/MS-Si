@@ -3423,3 +3423,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 17:01:17.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [27Aug2025 17:05:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Find and collect a Rose]
 [27Aug2025 17:05:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> rosa como la cabeza del guevo mio
+[27Aug2025 17:14:23.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelma
+[27Aug2025 17:14:41.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:19:20.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:25:29.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> no puesdo dormir ahora

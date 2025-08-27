@@ -17274,3 +17274,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 17:05:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> rosa como la cabeza del guevo mio
 [27Aug2025 17:05:59.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Aug2025 17:05:59.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 17:10:59.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 17:10:59.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 17:14:23.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelma
+[27Aug2025 17:14:41.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:15:59.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 17:15:59.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 17:19:20.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:20:09.043] [Server thread/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[27Aug2025 17:20:09.043] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Aug2025 17:20:59.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 17:20:59.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 17:25:29.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> no puesdo dormir ahora
+[27Aug2025 17:25:59.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 17:25:59.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
