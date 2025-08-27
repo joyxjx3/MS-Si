@@ -21049,3 +21049,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 04:28:44.389] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterMixin from variantvanillablocks.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
 [27Aug2025 04:28:44.398] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalHackMixin from sawmill-common.mixins.json into net.minecraft.world.entity.ai.behavior.StrollToPoi
 [27Aug2025 04:29:18.872] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[27Aug2025 04:32:22.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 04:32:22.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 04:34:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hagame la pála
+[27Aug2025 04:34:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> polfa
+[27Aug2025 04:36:55.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> pera
+[27Aug2025 04:37:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> si quiere venga y le doy la mis
+[27Aug2025 04:37:14.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> mañana con tiempo hago otra
+[27Aug2025 04:37:22.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 04:37:22.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 04:37:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> aonde
+[27Aug2025 04:37:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> a donde tu mama
+[27Aug2025 04:37:59.321] [Server thread/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[27Aug2025 04:37:59.321] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Aug2025 04:37:59.616] [Server thread/DEBUG] [mixin/]: Mixing dragonLibLegacy.AdvancementBehaviourAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[27Aug2025 04:37:59.617] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:dragonLibLegacy.AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Aug2025 04:38:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> chupelo
+[27Aug2025 04:38:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> malparido
+[27Aug2025 04:38:30.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> reparame esto
+[27Aug2025 04:38:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> que?
+[27Aug2025 04:38:37.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> e_e
+[27Aug2025 04:38:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> hmmmm
+[27Aug2025 04:39:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ese pixel azul oscuro en la punta de su espada es de que
+[27Aug2025 04:39:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> XD
+[27Aug2025 04:39:31.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> de la espada?
+[27Aug2025 04:39:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> si
+[27Aug2025 04:39:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> de tu espada
+[27Aug2025 04:39:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> debe ser el cobalto
+[27Aug2025 04:39:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pero justo
+[27Aug2025 04:39:48.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> 1 pixel
+[27Aug2025 04:39:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> en la punta
+[27Aug2025 04:39:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> mrk su monda se repara con no se que
+[27Aug2025 04:39:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> XDDDDD
+[27Aug2025 04:39:58.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> espere a
+[27Aug2025 04:40:02.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> a ver si puedo
+[27Aug2025 04:40:39.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pq me quemo yo
+[27Aug2025 04:40:40.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> nomames
+[27Aug2025 04:41:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> pq los gays se queman al lado mip
+[27Aug2025 04:41:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> mire mano
+[27Aug2025 04:41:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> un petucho
+[27Aug2025 04:41:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> =
+[27Aug2025 04:41:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ?
+[27Aug2025 04:41:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> mire
+[27Aug2025 04:41:34.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> un petuche
+[27Aug2025 04:41:37.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ud tiene diamante?
+[27Aug2025 04:41:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> no no hay
+[27Aug2025 04:42:22.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 04:42:22.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 04:45:06.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> mrk estas mamando
+[27Aug2025 04:45:11.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> esperame
+[27Aug2025 04:45:42.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> podes dormir mientras
+[27Aug2025 04:45:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> listo
+[27Aug2025 04:45:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> duerma y venga rapido a la no base
+[27Aug2025 04:46:12.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> kek
+[27Aug2025 04:46:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> wenos
+[27Aug2025 04:46:41.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> a chambear
+[27Aug2025 04:46:51.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[27Aug2025 04:46:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[27Aug2025 04:47:22.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 04:47:22.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 04:52:22.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 04:52:22.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

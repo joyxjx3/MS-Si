@@ -9064,6 +9064,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2025-08-27 04:38:31 +0000",
       "cleaver": "2025-08-16 07:25:15 +0000"
     },
     "done": false
@@ -11374,6 +11375,12 @@
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-08-24 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-27 04:41:59 +0000"
     },
     "done": true
   },
