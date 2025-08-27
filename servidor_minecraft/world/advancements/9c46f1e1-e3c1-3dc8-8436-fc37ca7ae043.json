@@ -11445,5 +11445,53 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/butter": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-08-27 23:37:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

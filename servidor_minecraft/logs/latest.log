@@ -3749,3 +3749,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 23:28:52.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:60391] logged in with entity id 46519 at (-2729.588125778063, 71.0, 3257.7674125166745)
 [27Aug2025 23:28:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
 [27Aug2025 23:28:52.137] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[27Aug2025 23:29:38.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:59728] logged in with entity id 46961 at (-2745.345301685186, 75.0, 3336.040959017687)
+[27Aug2025 23:29:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
+[27Aug2025 23:29:38.734] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
+[27Aug2025 23:30:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ajsfiafnpafn
+[27Aug2025 23:30:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> Mi pana culo roto
+[27Aug2025 23:30:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> se nos crasheo el juego
+[27Aug2025 23:30:07.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> a losdos
+[27Aug2025 23:30:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> con ese mamaguevo
+[27Aug2025 23:30:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> aqui tan
+[27Aug2025 23:30:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> tus cosas
+[27Aug2025 23:31:11.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Forbidden Fruit]
+[27Aug2025 23:31:31.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> papi en este lagazo intenso
+[27Aug2025 23:31:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> todo insano
+[27Aug2025 23:31:37.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Timed out
+[27Aug2025 23:31:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[27Aug2025 23:31:37.083] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Aug2025 23:32:06.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Timed out
+[27Aug2025 23:32:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
+[27Aug2025 23:33:05.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:60584] logged in with entity id 47756 at (-2735.1996223143847, 71.0, 3245.8250838252125)
+[27Aug2025 23:33:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[27Aug2025 23:33:05.827] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
