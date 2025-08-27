@@ -2613,6 +2613,7 @@
       "minecraft:birch_forest": "2025-08-27 22:55:47 +0000",
       "minecraft:windswept_hills": "2025-08-27 22:56:40 +0000",
       "minecraft:beach": "2025-08-27 22:54:48 +0000",
+      "minecraft:dark_forest": "2025-08-27 23:16:17 +0000",
       "minecraft:river": "2025-08-27 22:37:17 +0000",
       "minecraft:forest": "2025-08-27 22:05:45 +0000",
       "minecraft:deep_cold_ocean": "2025-08-27 22:38:18 +0000",
@@ -4119,9 +4120,57 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/oak_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/spruce_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/iron_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-27 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_milk_bucket": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4143,6 +4192,54 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/mud_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-08-27 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/quartz_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-27 23:04:11 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/carrot_crate": {
     "criteria": {
       "has_carrot": "2025-08-27 22:44:56 +0000"
@@ -4155,9 +4252,111 @@
     },
     "done": true
   },
+  "candlelight:recipes/bamboo_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/dough_from_water_bucket": {
     "criteria": {
       "has_the_recipe": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/iron_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/jungle_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/wooden_cauldron": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4173,15 +4372,184 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
-      "wheat": "2025-08-27 22:45:39 +0000"
+      "locate_ruin_cold": "2025-08-27 23:16:02 +0000"
     },
     "done": false
+  },
+  "candlelight:recipes/spruce_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/tea_kettle": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-08-27 22:45:39 +0000",
+      "carrot": "2025-08-27 23:08:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/butter": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
   },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-08-27 22:37:14 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/iron_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-27 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/granite_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-27 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/crimson_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4191,9 +4559,51 @@
     },
     "done": true
   },
+  "meadow:recipes/can": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandstone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/cauldron": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-27 23:07:58 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_bread": {
     "criteria": {
       "has_bread": "2025-08-27 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/cherry_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4203,9 +4613,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_the_recipe": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-27 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/warped_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:03:33 +0000"
     },
     "done": true
   },
@@ -4215,9 +4679,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/small_cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-27 23:03:01 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/dark_oak_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4239,9 +4727,57 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/warped_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-27 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/birch_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_tart": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-27 23:04:11 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/acacia_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/kitchen_sink": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4251,9 +4787,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-08-27 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:07:58 +0000"
     },
     "done": true
   },
@@ -4263,9 +4835,33 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/bamboo_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-08-27 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/supply_cart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4275,15 +4871,171 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-27 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-08-27 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-27 22:45:31 +0000"
     },
     "done": true
   },
+  "candlelight:recipes/typewriter_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "camping:recipes/grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cobblestone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/first_veggie": {
     "criteria": {
       "first": "2025-08-27 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-08-27 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/deepslate_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/tool_rack": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/jungle_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4299,9 +5051,69 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2025-08-27 23:05:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/acacia_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/feeding_trough": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/end_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-27 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/water_sprinkler": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4317,15 +5129,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-08-27 23:03:01 +0000"
     },
     "done": true
   },
+  "farm_and_charm:recipes/crafting_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-08-27 22:45:39 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4359,9 +5195,33 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-08-27 22:43:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella": {
+    "criteria": {
+      "has_the_recipe": "2025-08-27 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/toolrack": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
@@ -4371,9 +5231,45 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/crimson_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/oil_lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/stone_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-27 23:05:33 +0000"
     },
     "done": true
   },
