@@ -18054,3 +18054,108 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 22:15:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> y si me tepea?
 [27Aug2025 22:15:18.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> se fué el hijueputa
 [27Aug2025 22:16:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Stone Age]
+[27Aug2025 22:16:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> no puedo dormir
+[27Aug2025 22:16:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> te lo mamas
+[27Aug2025 22:16:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> en la no base
+[27Aug2025 22:16:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hay lana
+[27Aug2025 22:16:35.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> o hilo
+[27Aug2025 22:16:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> paraque te pongas
+[27Aug2025 22:16:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> está muy lejos hp
+[27Aug2025 22:16:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> como pantaletas
+[27Aug2025 22:16:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> y me los modeles
+[27Aug2025 22:16:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> sapo hijueputa
+[27Aug2025 22:16:57.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> por que no me puedes llamar
+[27Aug2025 22:16:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> si eres sapo
+[27Aug2025 22:17:01.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> :(
+[27Aug2025 22:18:04.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 22:18:04.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 22:18:16.683] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2731, y=73, z=3254}) doesn't have enough leaves around top most log
+[27Aug2025 22:18:17.187] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2731, y=72, z=3254}) doesn't have enough leaves around top most log
+[27Aug2025 22:18:23.993] [Server thread/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[27Aug2025 22:18:23.994] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Aug2025 22:18:24.404] [Server thread/DEBUG] [mixin/]: Mixing dragonLibLegacy.AdvancementBehaviourAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[27Aug2025 22:18:24.404] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:dragonLibLegacy.AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Aug2025 22:18:29.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[27Aug2025 22:18:32.880] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[27Aug2025 22:18:32.880] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Aug2025 22:18:32.893] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Aug2025 22:18:32.893] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from ars_additions.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Aug2025 22:18:32.893] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$angerNearbyPiglins$1(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;)Ljava/lang/Integer; to md0de2bb$lambda$angerNearbyPiglins$1$0 in ars_additions.mixins.json:PiglinAiMixin
+[27Aug2025 22:18:32.893] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$angerNearbyPiglins$0(ZLjava/util/List;)Ljava/lang/Boolean; to md0de2bb$lambda$angerNearbyPiglins$0$1 in ars_additions.mixins.json:PiglinAiMixin
+[27Aug2025 22:20:28.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> digame sus coordenadas
+[27Aug2025 22:20:39.315] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[27Aug2025 22:20:49.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> 153 -103
+[27Aug2025 22:21:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Getting an Upgrade]
+[27Aug2025 22:21:52.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 0.16120306580106103,0.0,-10.27757749683608
+[27Aug2025 22:21:52.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 0.0818108257378185,0.0,-10.664935244917281
+[27Aug2025 22:21:52.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -0.0027995579951891614,0.0,-11.0513313210306
+[27Aug2025 22:21:52.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -0.09232334543492016,0.0,-11.436785579823992
+[27Aug2025 22:21:52.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -0.18646418430702738,0.0,-11.821322458166934
+[27Aug2025 22:21:52.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -0.28493338767211185,0.0,-12.204970848479007
+[27Aug2025 22:21:56.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -0.9926382016014088,0.0,-10.32296782500558
+[27Aug2025 22:21:56.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.0157063652723934,0.0,-10.722031567584079
+[27Aug2025 22:21:56.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.038304008313645,0.0,-11.12114675521006
+[27Aug2025 22:21:56.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.0604666901624,0.0,-11.520308768643478
+[27Aug2025 22:21:56.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.0822302448410142,0.0,-11.919513275479762
+[27Aug2025 22:21:56.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.1036269230852156,0.0,-12.318756372829608
+[27Aug2025 22:21:56.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.1246857505563526,0.0,-12.718034548092742
+[27Aug2025 22:21:56.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.1454366812279773,0.0,-13.117344464840347
+[27Aug2025 22:21:56.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! -1.1659028425636961,0.0,-13.51668329537522
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.95065369452135,0.0,30.315791494973965
+[27Aug2025 22:21:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.921517067181497,0.0,29.918181600988234
+[27Aug2025 22:21:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.882947284227157,0.0,29.5222859472589
+[27Aug2025 22:21:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.835887661444673,0.0,29.127931925077146
+[27Aug2025 22:21:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.781190830078458,0.0,28.73496537125145
+[27Aug2025 22:21:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.7196205111689835,0.0,28.343247538913133
+[27Aug2025 22:21:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.651864053634455,0.0,27.952653555883685
+[27Aug2025 22:21:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.578543719475391,0.0,27.563069852563103
+[27Aug2025 22:21:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.500215896486878,0.0,27.17439540095642
+[27Aug2025 22:21:57.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.417381333671273,0.0,26.786539275870563
+[27Aug2025 22:21:57.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.330490705118734,0.0,26.399419644633944
+[27Aug2025 22:21:57.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.239949617499633,0.0,26.012962857844073
+[27Aug2025 22:21:57.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.146123116807672,0.0,25.62710263104048
+[27Aug2025 22:21:57.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 5.0493433924190185,0.0,25.241778127293284
+[27Aug2025 22:21:57.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.949905766773725,0.0,24.856935774284075
+[27Aug2025 22:21:57.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.848076030060838,0.0,24.472527356927557
+[27Aug2025 22:21:57.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.744093393444132,0.0,24.088509481648117
+[27Aug2025 22:21:57.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.638173146965329,0.0,23.704843094228735
+[27Aug2025 22:21:57.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.530509051656821,0.0,23.321493045875027
+[27Aug2025 22:21:57.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.421275492443186,0.0,22.93842770267288
+[27Aug2025 22:21:57.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.310629415752345,0.0,22.555618594100352
+[27Aug2025 22:21:57.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.1987120733656695,0.0,22.17304009668837
+[27Aug2025 22:21:57.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 4.0856505918830806,0.0,21.790669149315384
+[27Aug2025 22:21:57.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.9715593852414486,0.0,21.408484996972547
+[27Aug2025 22:21:57.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.85654142598122,0.0,21.026468960152386
+[27Aug2025 22:21:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.91389751535408,0.0,24.239732860459405
+[27Aug2025 22:21:57.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.797294809177913,0.0,23.858004301171803
+[27Aug2025 22:21:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.6800165003964764,0.0,23.476398298090494
+[27Aug2025 22:21:57.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.562133798208265,0.0,23.09490141094961
+[27Aug2025 22:21:58.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.4437071419683605,0.0,22.71350272815251
+[27Aug2025 22:21:58.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.324790927094881,0.0,22.33219242926247
+[27Aug2025 22:22:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> venga
+[27Aug2025 22:22:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> tirese al infinito y mas alla
+[27Aug2025 22:22:12.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> estoy en el oceano
+[27Aug2025 22:22:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> donde?
+[27Aug2025 22:22:26.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> lo voy a llevar a mi lugar especial
+[27Aug2025 22:22:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> 232 -71
+[27Aug2025 22:22:39.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> eso suena pederasta
+[27Aug2025 22:22:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> voy
+[27Aug2025 22:22:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> estoy a su derecha
+[27Aug2025 22:22:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> ya vi
+[27Aug2025 22:23:06.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 22:23:06.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 22:23:22.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> venga rapido
+[27Aug2025 22:24:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pero bueno papi
+[27Aug2025 22:24:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> viene o no viene
+[27Aug2025 22:24:41.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hp vida
+[27Aug2025 22:24:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> tirese
+[27Aug2025 22:25:04.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duolingo
+[27Aug2025 22:25:06.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> subase
+[27Aug2025 22:25:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> que viene mas lageado que mi monda
+[27Aug2025 22:25:26.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Disconnected
+[27Aug2025 22:25:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
