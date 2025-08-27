@@ -1,0 +1,17 @@
+{
+	id: "9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043"
+	type: "player"
+	player_name: "NatoRWR"
+	ranks: {
+		9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NatoRWR"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

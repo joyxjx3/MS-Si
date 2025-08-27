@@ -1,0 +1,15 @@
+{
+	id: "f927ae7e-fba2-341b-9c45-47797bdc6c29"
+	type: "player"
+	player_name: "CupcakeSpace"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "CupcakeSpace"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFED"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,4 +1,0 @@
-#.
-#Place a light source block to light up the area.
-enableLightBlock = false
-

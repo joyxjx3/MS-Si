@@ -1,0 +1,17 @@
+{
+	id: "2ee84060-1e66-3cc4-be2b-95e1c3189a8b"
+	type: "player"
+	player_name: "Termi"
+	ranks: {
+		2ee84060-1e66-3cc4-be2b-95e1c3189a8b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Termi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596BFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

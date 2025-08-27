@@ -1,0 +1,23 @@
+{
+	id: "55153aed-45fa-4d22-9d26-0d4befd59f80"
+	type: "party"
+	owner: "f927ae7e-fba2-341b-9c45-47797bdc6c29"
+	ranks: {
+		cd42f0fc-efd2-3fb9-8360-7312b7d506f4: "officer"
+		f927ae7e-fba2-341b-9c45-47797bdc6c29: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MUAJAJA"
+		"ftbteams:description": "todos contra nato"
+		"ftbteams:color": "#FF55FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1755309809634L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CupcakeSpace\"}]}" }
+		{ from: "f927ae7e-fba2-341b-9c45-47797bdc6c29", date: 1755310157016L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NergalAbyss\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1755310169224L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NergalAbyss\"}]}" }
+		{ from: "f927ae7e-fba2-341b-9c45-47797bdc6c29", date: 1755310180615L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"NergalAbyss\"}]}" }
+	]
+	extra: { }
+}

@@ -1,5 +1,7 @@
 {
-  "create_mechanical_spawner:spawner_data": null,
+  "apotheosis:adventure": null,
+  "apotheosis:ench": null,
+  "apotheosis:spawner": null,
   "jade:object_name": null,
   "minecraft:animal_owner": null,
   "minecraft:beehive": null,
@@ -19,5 +21,7 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }
