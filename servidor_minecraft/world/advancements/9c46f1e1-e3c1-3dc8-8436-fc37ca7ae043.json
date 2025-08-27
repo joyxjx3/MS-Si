@@ -11420,5 +11420,17 @@
     },
     "done": false
   },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-27 17:03:12 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2025-08-27 17:05:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
