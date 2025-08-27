@@ -3441,3 +3441,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [27Aug2025 17:34:19.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
 [27Aug2025 17:34:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
 [27Aug2025 17:34:31.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:40:07.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[27Aug2025 17:47:11.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[27Aug2025 17:47:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
