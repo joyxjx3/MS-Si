@@ -2610,6 +2610,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-08-27 22:46:32 +0000",
+      "minecraft:birch_forest": "2025-08-27 22:55:47 +0000",
+      "minecraft:windswept_hills": "2025-08-27 22:56:40 +0000",
+      "minecraft:beach": "2025-08-27 22:54:48 +0000",
       "minecraft:river": "2025-08-27 22:37:17 +0000",
       "minecraft:forest": "2025-08-27 22:05:45 +0000",
       "minecraft:deep_cold_ocean": "2025-08-27 22:38:18 +0000",
@@ -4182,6 +4185,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-27 22:59:10 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_bread": {
     "criteria": {
       "has_bread": "2025-08-27 22:45:26 +0000"
@@ -4200,9 +4209,27 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2025-08-27 23:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-27 23:03:01 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-27 23:03:01 +0000"
     },
     "done": true
   },
@@ -4287,6 +4314,12 @@
   "create:recipes/misc/crafting/appliances/dough": {
     "criteria": {
       "has_item": "2025-08-27 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-27 23:03:01 +0000"
     },
     "done": true
   },
