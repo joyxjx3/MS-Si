@@ -1,0 +1,17 @@
+{
+	id: "a611fe5c-e893-39f3-8bd0-d8708df8333e"
+	type: "player"
+	player_name: "Tetranutra"
+	ranks: {
+		a611fe5c-e893-39f3-8bd0-d8708df8333e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tetranutra"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
