@@ -8951,6 +8951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/paella": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 01:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-28 00:29:03 +0000"
@@ -8960,6 +8966,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-08-28 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pil_pil_cod": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 01:12:53 +0000"
     },
     "done": true
   },
