@@ -11507,5 +11507,209 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/mangrove_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-08-28 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cartography_table": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/spruce_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/warped_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/napkin": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/jungle_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/letter_open": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/crimson_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cherry_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/love_letter_open": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/acacia_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/oak_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/table_sign": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/bamboo_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

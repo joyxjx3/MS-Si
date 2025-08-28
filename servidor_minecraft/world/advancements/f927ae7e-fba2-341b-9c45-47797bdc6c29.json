@@ -14220,102 +14220,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-08-24 04:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-08-24 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-08-24 02:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-08-24 04:13:57 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/stove": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-08-24 04:13:56 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-08-24 05:05:42 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/mangrove": {
-    "criteria": {
-      "has_planks": "2025-08-24 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/woodcutter": {
-    "criteria": {
-      "has_pine_log": "2025-08-24 06:01:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-08-24 00:55:20 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/misc/bastion_crate": {
-    "criteria": {
-      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/misc/mendosteen_crate": {
-    "criteria": {
-      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/jungle": {
-    "criteria": {
-      "has_planks": "2025-08-24 04:13:57 +0000"
-    },
-    "done": true
-  },
   "arcanelanterns:recipes/misc/wailing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14328,45 +14232,9 @@
     },
     "done": true
   },
-  "arsdelight:recipes/misc/bombegrante_crate": {
-    "criteria": {
-      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-24 01:22:13 +0000"
-    },
-    "done": true
-  },
   "arcanelanterns:recipes/misc/brilliant_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_jungle": {
-    "criteria": {
-      "has_jungle_sign": "2025-08-24 02:59:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2025-08-24 02:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-08-24 03:37:58 +0000"
     },
     "done": true
   },
@@ -14382,36 +14250,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-08-24 04:13:56 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:55:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-08-24 01:08:46 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2025-08-24 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-08-24 03:36:35 +0000"
-    },
-    "done": true
-  },
   "arcanelanterns:recipes/misc/life_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14424,57 +14262,9 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-08-24 00:55:20 +0000"
-    },
-    "done": true
-  },
   "arcanelanterns:recipes/misc/containing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/misc/frostaya_crate": {
-    "criteria": {
-      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_wood": {
-    "criteria": {
-      "has_pine_log": "2025-08-24 06:01:57 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-08-24 04:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/food/frostaya_pie": {
-    "criteria": {
-      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/fire_log": {
-    "criteria": {
-      "has_pine_log": "2025-08-24 06:01:57 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/food/bombegrante_pie": {
-    "criteria": {
-      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
     },
     "done": true
   },
@@ -14484,27 +14274,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
+  "arcanelanterns:recipes/misc/feral_lantern": {
     "criteria": {
-      "has_the_recipe": "2025-08-24 02:59:15 +0000"
+      "has_lantern": "2025-08-24 00:24:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_log": "2025-08-24 04:04:17 +0000"
+      "has_log": "2025-08-24 00:55:20 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia": {
+  "mcwroofs:recipes/cherry": {
     "criteria": {
-      "has_planks": "2025-08-24 04:13:56 +0000"
+      "has_planks": "2025-08-24 00:55:20 +0000"
     },
     "done": true
   },
-  "arsdelight:recipes/food/mendosteen_pie": {
+  "mcwdoors:recipes/cherry": {
     "criteria": {
-      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
+      "has_wood": "2025-08-24 00:55:20 +0000"
     },
     "done": true
   },
@@ -14514,9 +14304,27 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/bricks": {
+  "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
-      "has_planks": "2025-08-24 03:54:52 +0000"
+      "has_item": "2025-08-24 01:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-24 01:22:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-08-24 02:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-24 02:29:29 +0000"
     },
     "done": true
   },
@@ -14526,45 +14334,9 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_wood": {
-    "criteria": {
-      "has_cherry_wood": "2025-08-24 05:49:48 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
-    "criteria": {
-      "has_item": "2025-08-24 03:37:58 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/cherry_picker": {
-    "criteria": {
-      "cherry": "2025-08-24 05:57:12 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-08-24 04:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-08-24 04:04:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-24 03:54:52 +0000"
     },
     "done": true
   },
@@ -14574,21 +14346,249 @@
     },
     "done": true
   },
-  "arsdelight:recipes/food/bastion_pie": {
+  "supplementaries:recipes/sign_post_jungle": {
     "criteria": {
-      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
+      "has_jungle_sign": "2025-08-24 02:59:15 +0000"
     },
     "done": true
   },
-  "arcanelanterns:recipes/misc/feral_lantern": {
+  "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
-      "has_lantern": "2025-08-24 00:24:03 +0000"
+      "has_the_recipe": "2025-08-24 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-24 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-24 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-08-24 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/stove": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:13:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-08-24 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:13:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-08-24 05:05:42 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/bastion_crate": {
+    "criteria": {
+      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/bastion_pie": {
+    "criteria": {
+      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/bombegrante_crate": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/bombegrante_pie": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/mendosteen_crate": {
+    "criteria": {
+      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/mendosteen_pie": {
+    "criteria": {
+      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/frostaya_crate": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/frostaya_pie": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-08-24 05:49:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-24 05:57:12 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
     },
     "done": true
   },

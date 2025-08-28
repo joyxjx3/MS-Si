@@ -3043,6 +3043,7 @@
       "cooked_porkchop": "2025-08-22 03:30:15 +0000",
       "cooked_mutton": "2025-08-22 04:05:00 +0000",
       "cooked_beef": "2025-08-22 02:05:43 +0000",
+      "baked_potato": "2025-08-28 02:51:53 +0000",
       "apple": "2025-08-22 02:47:25 +0000",
       "bread": "2025-08-22 02:29:43 +0000",
       "golden_apple": "2025-08-22 02:11:11 +0000",
@@ -8717,6 +8718,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-28 02:48:31 +0000"
+    },
+    "done": true
+  },
   "arsdelight:recipes/misc/source_berry_crate": {
     "criteria": {
       "has_sourceberry_bush": "2025-08-28 00:31:15 +0000"
@@ -8726,6 +8733,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-08-28 00:31:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-28 02:50:22 +0000"
     },
     "done": true
   },
@@ -8750,6 +8763,12 @@
   "farm_and_charm:recipes/stove": {
     "criteria": {
       "has_bricks": "2025-08-28 00:31:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:48:31 +0000"
     },
     "done": true
   },
@@ -8927,6 +8946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-08-28 00:27:04 +0000"
@@ -8954,6 +8979,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-28 00:29:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-08-28 02:49:44 +0000"
     },
     "done": true
   },
@@ -8999,6 +9030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-28 02:49:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 01:24:19 +0000"
@@ -9008,6 +9045,18 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-28 00:29:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-08-28 02:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:48:31 +0000"
     },
     "done": true
   },
@@ -9161,6 +9210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-08-28 00:34:32 +0000"
@@ -9203,6 +9258,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-08-28 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-28 02:49:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 01:24:19 +0000"
@@ -9233,9 +9300,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-28 02:50:22 +0000"
+    },
+    "done": true
+  },
   "candlelight:main/find_rose": {
     "criteria": {
       "rose": "2025-08-28 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-28 02:49:44 +0000"
     },
     "done": true
   },

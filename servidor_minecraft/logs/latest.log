@@ -141,3 +141,24 @@
 [28Aug2025 02:43:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> al amanecer salgo para alla
 [28Aug2025 02:43:59.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
 [28Aug2025 02:43:59.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -17462.017072996307,-69.93727999901294,-37540.28834683629
+[28Aug2025 02:45:59.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 17461.982927003693,70.06272000098706,37537.711653163715
+[28Aug2025 02:47:19.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was shot by Skeleton
+[28Aug2025 02:47:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was shot by Skeleton
+[28Aug2025 02:47:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> xD
+[28Aug2025 02:47:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Termi> Masmorreando
+[28Aug2025 02:49:01.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was shot by Skeleton
+[28Aug2025 02:49:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Cherry Picker]
+[28Aug2025 02:49:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was blown up by Creeper
+[28Aug2025 02:49:59.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:61698] logged in with entity id 153936 at (-2149.6125585515033, 70.0, -6310.562985114518)
+[28Aug2025 02:49:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[28Aug2025 02:49:59.081] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[28Aug2025 02:51:01.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/155747, l='ServerLevel[world]', x=-1951.99, y=16.38, z=-6477.20]
+[28Aug2025 02:51:44.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was blown up by Creeper
+[28Aug2025 02:52:03.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Aug2025 02:52:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Cherry Picker]
+[28Aug2025 02:53:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was blown up by Creeper
+[28Aug2025 02:53:26.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[28Aug2025 02:54:00.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Aug2025 02:54:38.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Aug2025 02:55:03.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Aug2025 02:55:21.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
