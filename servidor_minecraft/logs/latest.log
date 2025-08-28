@@ -19,3 +19,17 @@
 [28Aug2025 00:28:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> Vamos que es jueves
 [28Aug2025 00:29:34.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [28Aug2025 00:34:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Into Fire]
+[28Aug2025 00:41:37.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[28Aug2025 00:42:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Enchanter]
+[28Aug2025 00:42:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [The Basics]
+[28Aug2025 00:42:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Eterna, Quanta, Arcana]
+[28Aug2025 00:42:27.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[28Aug2025 00:47:11.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2660, y=89, z=3201} BlockPos{x=-2660, y=87, z=3202}
+[28Aug2025 00:47:11.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2660, y=89, z=3201} BlockPos{x=-2660, y=87, z=3202}
+[28Aug2025 00:51:24.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2654, y=84, z=3187} BlockPos{x=-2654, y=83, z=3186}
+[28Aug2025 00:51:24.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2654, y=84, z=3187} BlockPos{x=-2654, y=83, z=3186}
+[28Aug2025 00:51:32.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3193} BlockPos{x=-2650, y=84, z=3193}
+[28Aug2025 00:51:32.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
+[28Aug2025 00:51:32.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
+[28Aug2025 00:51:32.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
+[28Aug2025 00:51:32.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
