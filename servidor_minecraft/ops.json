@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "f927ae7e-fba2-341b-9c45-47797bdc6c29",
+    "name": "CupcakeSpace",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "3e90a37f-d3f9-324b-9ca0-6c73d46e218b",
     "name": "cupcakespace",
     "level": 4,

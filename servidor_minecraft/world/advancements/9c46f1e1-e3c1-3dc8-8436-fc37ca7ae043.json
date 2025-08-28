@@ -11508,45 +11508,9 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/misc/mangrove_cartography_table": {
-    "criteria": {
-      "has_paper": "2025-08-28 02:51:24 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/window_sill": {
-    "criteria": {
-      "has_flower_pot": "2025-08-28 02:53:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-08-28 02:53:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-28 02:47:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-28 02:58:29 +0000"
     },
     "done": true
   },
@@ -11556,9 +11520,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_coal_block": "2025-08-28 03:28:40 +0000"
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/mangrove_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 02:51:24 +0000"
     },
     "done": true
   },
@@ -11571,18 +11559,6 @@
   "variantvanillablocks:recipes/misc/spruce_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "lilis_lucky_lures:recipes/redstone_coil": {
-    "criteria": {
-      "has_redstone_block": "2025-08-28 02:58:10 +0000"
     },
     "done": true
   },
@@ -11616,12 +11592,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-08-28 02:47:13 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/misc/crimson_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
@@ -11634,33 +11604,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/misc/cherry_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-08-28 03:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-08-28 02:47:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-08-28 03:23:47 +0000"
     },
     "done": true
   },
@@ -11676,12 +11622,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-08-28 02:51:24 +0000"
@@ -11694,51 +11634,9 @@
     },
     "done": true
   },
-  "candlelight:recipes/red_nether_bricks_stove": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-28 02:53:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-08-28 02:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-08-28 02:51:24 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/red_nether_bricks_kitchen_sink": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
     },
     "done": true
   },
@@ -11748,51 +11646,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-28 02:53:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-08-28 02:47:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/misc/birch_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/red_nether_bricks_counter": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-08-28 02:47:13 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/red_nether_bricks": {
-    "criteria": {
-      "has_planks": "2025-08-28 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-08-28 02:53:19 +0000"
     },
     "done": true
   },
@@ -11823,6 +11679,150 @@
   "variantvanillablocks:recipes/misc/bamboo_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-08-28 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/redstone_coil": {
+    "criteria": {
+      "has_redstone_block": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-28 02:58:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-08-28 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-08-28 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_kitchen_sink": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_counter": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-28 03:28:40 +0000"
     },
     "done": true
   },
