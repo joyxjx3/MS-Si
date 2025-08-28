@@ -13112,5 +13112,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 00:07:16 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_all_backpacks": {
+    "criteria": {
+      "camping:small_backpack": "2025-08-28 00:07:43 +0000"
+    },
+    "done": false
+  },
+  "camping:main/get_a_small_backpack": {
+    "criteria": {
+      "small_backpack": "2025-08-28 00:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 00:07:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
