@@ -3924,3 +3924,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [28Aug2025 21:45:39.944] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
 [28Aug2025 21:45:40.352] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
 [28Aug2025 21:45:42.040] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 21:48:32.204] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 21:48:32.303] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 21:51:04.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[28Aug2025 21:51:04.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
