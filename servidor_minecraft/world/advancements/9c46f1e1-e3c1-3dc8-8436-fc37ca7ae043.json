@@ -11417,7 +11417,8 @@
   },
   "tconstruct:smeltery/melter": {
     "criteria": {
-      "seared_table": "2025-08-27 04:57:46 +0000"
+      "seared_table": "2025-08-27 04:57:46 +0000",
+      "seared_faucet": "2025-08-28 02:01:01 +0000"
     },
     "done": false
   },

@@ -13138,6 +13138,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-08-28 01:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-08-28 01:26:33 +0000"

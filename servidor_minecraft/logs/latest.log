@@ -65,3 +65,32 @@
 [28Aug2025 01:30:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Wild Crops]
 [28Aug2025 01:30:41.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Way of Vegetables]
 [28Aug2025 01:32:21.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> chamba dan chamba dan chamba dan
+[28Aug2025 01:36:26.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[28Aug2025 01:36:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> dolmil
+[28Aug2025 01:37:07.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> dolmill
+[28Aug2025 01:38:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [The Jeweler]
+[28Aug2025 01:39:21.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> OYE NATO
+[28Aug2025 01:39:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> khe
+[28Aug2025 01:39:26.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> NECESITO REPARAR LA PALA
+[28Aug2025 01:39:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> presteme
+[28Aug2025 01:40:05.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> todavia le queda mucho
+[28Aug2025 01:40:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> NO
+[28Aug2025 01:40:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> dejela que se rompa
+[28Aug2025 01:40:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> ES LO GASTO EN UN MOMENTO
+[28Aug2025 01:40:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> SEGURO?
+[28Aug2025 01:40:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> no desaparece
+[28Aug2025 01:41:51.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[28Aug2025 01:41:51.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[28Aug2025 01:43:59.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Disconnected
+[28Aug2025 01:43:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
+[28Aug2025 01:44:40.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 9.58472318283475,0.4959870982234804,2.9542430684778083
+[28Aug2025 01:48:01.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2657, y=72, z=3193} BlockPos{x=-2656, y=72, z=3194}
+[28Aug2025 01:48:55.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:40472] logged in with entity id 122413 at (-13.5, 6.0, 1002.5)
+[28Aug2025 01:48:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
+[28Aug2025 01:48:55.735] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
+[28Aug2025 01:52:09.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Timed out
+[28Aug2025 01:52:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
+[28Aug2025 01:52:09.078] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Aug2025 01:59:25.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:42224] logged in with entity id 127278 at (-6.423407335468396, 6.0625, 984.8181599551212)
+[28Aug2025 01:59:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
+[28Aug2025 01:59:25.288] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
