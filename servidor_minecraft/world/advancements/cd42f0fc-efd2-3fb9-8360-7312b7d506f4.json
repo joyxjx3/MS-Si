@@ -7917,7 +7917,8 @@
     "criteria": {
       "twilight_oak_planks": "2025-08-16 05:25:54 +0000",
       "twilight_oak_log": "2025-08-16 05:25:51 +0000",
-      "twilight_oak_sapling": "2025-08-16 05:25:51 +0000"
+      "twilight_oak_sapling": "2025-08-16 05:25:51 +0000",
+      "canopy_log": "2025-08-28 00:08:57 +0000"
     },
     "done": false
   },
@@ -13118,6 +13119,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-08-28 00:08:57 +0000"
+    },
+    "done": true
+  },
   "camping:main/get_all_backpacks": {
     "criteria": {
       "camping:small_backpack": "2025-08-28 00:07:43 +0000"
@@ -13133,6 +13140,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_the_recipe": "2025-08-28 00:07:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-08-28 00:08:57 +0000"
     },
     "done": true
   },
