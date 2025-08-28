@@ -5284,6 +5284,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-28 02:20:14 +0000",
       "minecraft:husk": "2025-08-27 23:21:35 +0000"
     },
     "done": false
@@ -5923,6 +5924,24 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-28 02:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-28 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_chainmail_helmet": {
+    "criteria": {
+      "has_helmet": "2025-08-28 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-28 02:30:19 +0000"
     },
     "done": true
   },

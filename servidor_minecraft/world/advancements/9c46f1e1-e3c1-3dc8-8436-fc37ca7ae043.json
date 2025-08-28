@@ -7469,6 +7469,7 @@
       "amethyst_bronze": "2025-08-22 00:57:05 +0000",
       "string": "2025-08-22 00:57:12 +0000",
       "cobalt": "2025-08-17 01:24:59 +0000",
+      "seared_stone": "2025-08-28 02:28:36 +0000",
       "copper": "2025-08-16 07:25:15 +0000",
       "wood": "2025-08-22 01:40:08 +0000",
       "rose_gold": "2025-08-16 07:25:15 +0000",
@@ -11494,15 +11495,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-28 01:28:37 +0000"
-    },
-    "done": true
-  },
   "farm_and_charm:recipes/lettuce": {
     "criteria": {
       "has_tomato_seeds": "2025-08-28 00:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-28 01:28:37 +0000"
     },
     "done": true
   },
