@@ -5946,6 +5946,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-08-28 02:46:54 +0000"
@@ -5958,9 +5970,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-28 02:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -5973,6 +6003,18 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-08-28 02:57:04 +0000"
     },
     "done": true
   },
@@ -6000,6 +6042,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-08-28 02:49:16 +0000"
@@ -6024,9 +6078,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/table_set": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/chainmail_backtank": {
+    "criteria": {
+      "has_backtank": "2025-08-28 02:56:51 +0000"
     },
     "done": true
   },
@@ -6048,6 +6120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-08-28 02:49:16 +0000"
@@ -6063,6 +6141,12 @@
   "vinery:recipes/dark_cherry_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
     },
     "done": true
   },
@@ -6126,9 +6210,21 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6162,9 +6258,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6204,6 +6312,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-08-28 02:53:39 +0000"
@@ -6213,6 +6327,12 @@
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 02:46:54 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
     },
     "done": true
   },
@@ -6276,9 +6396,33 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6330,9 +6474,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/spruce_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6342,9 +6498,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-08-28 02:46:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6357,6 +6525,18 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-08-28 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chefs_pants": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
     },
     "done": true
   },
@@ -6384,15 +6564,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-08-28 02:52:07 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_minecart": "2025-08-28 02:53:39 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/gold_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
     },
     "done": true
   },
@@ -6417,6 +6621,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 02:46:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-28 02:53:58 +0000"
     },
     "done": true
   },
@@ -6474,15 +6684,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-28 02:57:40 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 02:51:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-28 02:46:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },
@@ -6501,6 +6741,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-28 02:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 02:57:42 +0000"
     },
     "done": true
   },

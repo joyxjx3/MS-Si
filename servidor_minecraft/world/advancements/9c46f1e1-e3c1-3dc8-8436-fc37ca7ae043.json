@@ -5172,6 +5172,7 @@
       "minecraft:phantom": "2025-08-17 01:47:12 +0000",
       "minecraft:witch": "2025-08-16 03:07:00 +0000",
       "minecraft:wither_skeleton": "2025-08-22 04:33:23 +0000",
+      "minecraft:cave_spider": "2025-08-28 03:02:28 +0000",
       "minecraft:enderman": "2025-08-16 01:49:31 +0000",
       "minecraft:silverfish": "2025-08-22 04:25:34 +0000",
       "minecraft:stray": "2025-08-22 04:07:32 +0000",
@@ -11519,6 +11520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-08-28 02:53:19 +0000"
@@ -11528,6 +11535,12 @@
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-28 02:58:29 +0000"
     },
     "done": true
   },
@@ -11546,6 +11559,12 @@
   "variantvanillablocks:recipes/misc/spruce_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/redstone_coil": {
+    "criteria": {
+      "has_redstone_block": "2025-08-28 02:58:10 +0000"
     },
     "done": true
   },
@@ -11603,6 +11622,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-08-28 03:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-28 02:47:13 +0000"
@@ -11636,6 +11661,24 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-28 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 02:58:10 +0000"
     },
     "done": true
   },

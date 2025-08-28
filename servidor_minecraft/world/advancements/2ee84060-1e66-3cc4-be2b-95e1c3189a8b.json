@@ -8904,6 +8904,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-28 01:00:30 +0000"
@@ -8913,6 +8919,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-28 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
     },
     "done": true
   },
@@ -9102,6 +9114,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 01:24:19 +0000"
@@ -9117,6 +9141,12 @@
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
     },
     "done": true
   },
@@ -9255,6 +9285,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-28 01:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-28 02:58:46 +0000"
     },
     "done": true
   },

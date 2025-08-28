@@ -14592,5 +14592,11 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-08-28 03:01:57 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
