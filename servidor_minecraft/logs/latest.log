@@ -3417,3 +3417,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [28Aug2025 04:19:18.885] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
 [28Aug2025 04:19:19.133] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
 [28Aug2025 04:19:19.331] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:22:08.326] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:22:33.705] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/drilldozer_777_j5545cqhuj.nbt
+[28Aug2025 04:22:52.988] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2021, 64, -6403
+[28Aug2025 04:22:52.989] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2019, 64, -6403
+[28Aug2025 04:22:52.989] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 64, -6404
+[28Aug2025 04:22:52.989] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 64, -6402
+[28Aug2025 04:22:52.989] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 63, -6403
+[28Aug2025 04:22:52.989] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 65, -6403
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2021, 64, -6399
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2019, 64, -6399
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 64, -6400
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 64, -6398
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 63, -6399
+[28Aug2025 04:22:52.992] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: -2020, 65, -6399
+[28Aug2025 04:22:59.090] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:03.977] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:34.228] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:35.024] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:36.574] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:37.631] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:38.861] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:39.681] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:41.024] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:41.623] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:43.726] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:44.324] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:54.674] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:56.527] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:57.140] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:23:59.830] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:01.126] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:02.824] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:03.735] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:13.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[28Aug2025 04:24:35.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[28Aug2025 04:24:36.408] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:42.742] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:43.442] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:47.597] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:48.238] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:24:58.494] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:04.019] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:15.377] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:36.523] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:42.322] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:44.522] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:50.375] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:52.753] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:56.551] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:57.069] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:25:59.622] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:01.538] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:34.133] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:41.519] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:42.080] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:45.168] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:26:48.966] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:27:07.833] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:27:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Strong Arms]
+[28Aug2025 04:27:11.126] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:27:11.978] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 04:27:23.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[28Aug2025 04:27:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
