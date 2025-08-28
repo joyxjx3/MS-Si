@@ -11493,6 +11493,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-28 01:28:37 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/lettuce": {
     "criteria": {
       "has_tomato_seeds": "2025-08-28 00:13:43 +0000"

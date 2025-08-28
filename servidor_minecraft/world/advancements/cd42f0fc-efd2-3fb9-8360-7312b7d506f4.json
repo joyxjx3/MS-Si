@@ -8721,6 +8721,7 @@
       "broad_axe": "2025-08-16 07:54:48 +0000",
       "excavator": "2025-08-23 00:34:33 +0000",
       "sledge_hammer": "2025-08-16 07:28:20 +0000",
+      "vein_hammer": "2025-08-28 01:19:09 +0000",
       "cleaver": "2025-08-16 07:25:06 +0000"
     },
     "done": false
@@ -13113,9 +13114,63 @@
     },
     "done": true
   },
+  "candlelight:recipes/plate": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_the_recipe": "2025-08-28 00:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
     },
     "done": true
   },
@@ -13125,15 +13180,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
   "camping:main/get_all_backpacks": {
     "criteria": {
       "camping:small_backpack": "2025-08-28 00:07:43 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
   "camping:main/get_a_small_backpack": {
     "criteria": {
       "small_backpack": "2025-08-28 00:07:43 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 01:26:33 +0000"
     },
     "done": true
   },
@@ -13146,6 +13255,24 @@
   "twilightforest:recipes/building_blocks/wood/canopy_planks": {
     "criteria": {
       "has_item": "2025-08-28 00:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-08-28 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-28 01:26:33 +0000"
     },
     "done": true
   },

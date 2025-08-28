@@ -4340,6 +4340,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2025-08-28 01:29:47 +0000",
       "wheat": "2025-08-27 22:45:39 +0000",
       "carrot": "2025-08-27 23:08:21 +0000"
     },
@@ -5425,6 +5426,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/eat_tomato": {
+    "criteria": {
+      "tomato": "2025-08-28 01:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-28 01:07:41 +0000"
@@ -5443,9 +5456,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-28 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/warped_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
     },
     "done": true
   },
@@ -5467,9 +5492,27 @@
     },
     "done": true
   },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-08-28 01:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-08-28 01:18:37 +0000"
     },
     "done": true
   },
@@ -5482,6 +5525,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-08-28 01:25:43 +0000"
     },
     "done": true
   },
@@ -5527,6 +5576,18 @@
     },
     "done": true
   },
+  "candlelight:main/find_wild_crops": {
+    "criteria": {
+      "lettuce_seeds": "2025-08-28 01:30:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 01:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-28 01:12:50 +0000"
@@ -5539,6 +5600,12 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/coal_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-28 01:18:14 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-08-28 01:07:41 +0000"
@@ -5548,6 +5615,12 @@
   "candlelight:recipes/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-28 01:26:06 +0000"
     },
     "done": true
   },
@@ -5575,6 +5648,24 @@
     },
     "done": false
   },
+  "variantvanillablocks:recipes/decorations/cherry_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/uncooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-08-28 01:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-28 01:12:50 +0000"
@@ -5590,6 +5681,18 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-28 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce": {
+    "criteria": {
+      "has_tomato_seeds": "2025-08-28 01:28:09 +0000"
     },
     "done": true
   },
@@ -5617,9 +5720,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/spruce_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/bamboo_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
     },
     "done": true
   },
@@ -5629,9 +5756,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/paella": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 01:29:06 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/birch_chest": {
     "criteria": {
       "has_planks": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/dark_oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-28 01:18:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pil_pil_cod": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 01:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-28 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/cooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/mangrove_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/acacia_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/crimson_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
     },
     "done": true
   },
@@ -5648,6 +5835,12 @@
       "wood": "2025-08-28 01:14:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
   },
   "variantvanillablocks:recipes/decorations/birch_barrel": {
     "criteria": {
@@ -5667,6 +5860,24 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/jungle_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-28 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-28 01:12:50 +0000"
@@ -5676,6 +5887,18 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-28 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-28 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/place_seeds": {
+    "criteria": {
+      "lettuce": "2025-08-28 01:30:41 +0000"
     },
     "done": true
   },
