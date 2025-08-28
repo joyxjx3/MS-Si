@@ -3386,3 +3386,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [28Aug2025 21:14:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
 [28Aug2025 21:14:14.242] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
 [28Aug2025 21:14:14.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4889ms or 97 ticks behind
+[28Aug2025 21:25:00.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:53716] logged in with entity id 1799 at (-2028.487658052274, 64.0, -6403.67833928647)
+[28Aug2025 21:25:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[28Aug2025 21:25:00.938] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[28Aug2025 21:25:02.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[28Aug2025 21:25:35.500] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: kubejs:first_click
+[28Aug2025 21:27:16.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[28Aug2025 21:27:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
