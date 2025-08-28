@@ -33,3 +33,5 @@
 [28Aug2025 00:51:32.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
 [28Aug2025 00:51:32.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
 [28Aug2025 00:51:32.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2651, y=85, z=3192} BlockPos{x=-2651, y=85, z=3193}
+[28Aug2025 00:55:58.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2664, y=73, z=3209} BlockPos{x=-2651, y=82, z=3184}
+[28Aug2025 01:01:43.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
