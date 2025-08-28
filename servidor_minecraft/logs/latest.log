@@ -189,3 +189,97 @@
 [28Aug2025 03:04:51.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [28Aug2025 03:05:27.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [28Aug2025 03:06:01.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Aug2025 03:06:19.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[28Aug2025 03:06:39.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5250ms or 105 ticks behind
+[28Aug2025 03:06:44.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[28Aug2025 03:06:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[28Aug2025 03:10:19.141] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[28Aug2025 03:10:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Diamonds!]
+[28Aug2025 03:10:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Not Today, Thank You]
+[28Aug2025 03:11:06.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.226392525066558,0.0,6.4573079007909655
+[28Aug2025 03:11:06.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.621044917012796,0.0,6.767090346956138
+[28Aug2025 03:11:06.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.01173300414007,0.0,7.073761001593084
+[28Aug2025 03:11:06.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.398456759626242,0.0,7.377319864701349
+[28Aug2025 03:11:40.082] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[28Aug2025 03:11:40.199] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[28Aug2025 03:11:40.202] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[28Aug2025 03:11:40.212] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[28Aug2025 03:17:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was shot by Stray
+[28Aug2025 03:19:02.285] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[28Aug2025 03:21:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Not Quite Atlantis...]
+[28Aug2025 03:21:21.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Cave Dweller
+[28Aug2025 03:24:43.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has reached the goal [Horror Under the Mantle]
+[28Aug2025 03:25:17.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4430ms or 88 ticks behind
+[28Aug2025 03:25:17.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 5.635610173361783,0.0,8.654751190748584
+[28Aug2025 03:25:17.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 5.815737482323129,0.0,8.931377323299785
+[28Aug2025 03:25:17.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 5.993114722454266,0.0,9.203780103292047
+[28Aug2025 03:25:17.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 6.177858193474094,0.0,9.487495394547977
+[28Aug2025 03:25:17.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 6.359851595664168,0.0,9.766987333245197
+[28Aug2025 03:25:17.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 6.539094942434986,0.0,10.042255946205614
+[28Aug2025 03:25:17.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 6.725704506683542,0.0,10.328837043607564
+[28Aug2025 03:25:17.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 6.909564015512842,0.0,10.611194788450803
+[28Aug2025 03:25:17.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.090673455511933,0.0,10.889329207557239
+[28Aug2025 03:25:17.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.269032840092223,0.0,11.1632403009271
+[28Aug2025 03:25:17.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.454758442150251,0.0,11.448463878738494
+[28Aug2025 03:25:17.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.637733988789023,0.0,11.72946410399095
+[28Aug2025 03:25:17.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.817959466597586,0.0,12.00624100350683
+[28Aug2025 03:25:17.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 7.995434888987347,0.0,12.278794550464
+[28Aug2025 03:25:17.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.180276528854847,0.0,12.56266060868461
+[28Aug2025 03:25:17.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.362368113303091,0.0,12.842303314346509
+[28Aug2025 03:25:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.541709628921126,0.0,13.117722694271833
+[28Aug2025 03:25:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.728417362016899,0.0,13.40445455863869
+[28Aug2025 03:25:17.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 8.912375039693416,0.0,13.686963097268745
+[28Aug2025 03:25:17.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.093582661951132,0.0,13.965248283340088
+[28Aug2025 03:25:17.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.272040215378638,0.0,14.23931014367463
+[28Aug2025 03:25:17.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.457863986283883,0.0,14.524684488450703
+[28Aug2025 03:25:17.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.640937701769872,0.0,14.805835480668065
+[28Aug2025 03:25:17.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.82126136183706,0.0,15.082763147148626
+[28Aug2025 03:25:17.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.998834953074038,0.0,15.355467461070475
+[28Aug2025 03:25:17.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.183774761788754,0.0,15.639484286255993
+[28Aug2025 03:25:17.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.365964515084215,0.0,15.919277758882572
+[28Aug2025 03:25:17.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.545404212960875,0.0,16.194847905772576
+[28Aug2025 03:25:17.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.732210128315273,0.0,16.481730537104113
+[28Aug2025 03:25:17.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.916265974839462,0.0,16.764389842698847
+[28Aug2025 03:25:17.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.097571765944394,0.0,17.04282579573487
+[28Aug2025 03:25:17.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.276127501630526,0.0,17.31703842303409
+[28Aug2025 03:25:17.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.462049454793942,0.0,17.602563534774845
+[28Aug2025 03:25:17.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.645221339127602,0.0,17.883865293956887
+[28Aug2025 03:25:17.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.825643168042006,0.0,18.160943727402127
+[28Aug2025 03:25:17.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.003314941537155,0.0,18.433798808288657
+[28Aug2025 03:25:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.188352932510043,0.0,18.717966400438854
+[28Aug2025 03:25:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.370640854653175,0.0,18.99791064003034
+[28Aug2025 03:25:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.550178721377051,0.0,19.273631553885025
+[28Aug2025 03:25:17.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.726966532681672,0.0,19.545129115181
+[28Aug2025 03:25:17.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 12.911120561464031,0.0,19.827939187740412
+[28Aug2025 03:25:17.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.09252452141618,0.0,20.106525907741116
+[28Aug2025 03:25:17.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.271178425949529,0.0,20.380889302005244
+[28Aug2025 03:25:17.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.457198547960616,0.0,20.666565180710904
+[28Aug2025 03:25:17.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.640468614552447,0.0,20.948017733679762
+[28Aug2025 03:25:17.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.820988612314068,0.0,21.22524693408991
+[28Aug2025 03:25:17.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 13.998758554656888,0.0,21.498252808763255
+[28Aug2025 03:25:17.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 14.183894714477447,0.0,21.78257116787813
+[28Aug2025 03:25:17.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 14.36628081887875,0.0,22.0626661744343
+[28Aug2025 03:25:17.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 14.545916854449843,0.0,22.338537855253662
+[28Aug2025 03:25:17.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.270070025620953,0.0,14.236284451053507
+[28Aug2025 03:25:17.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.454322223250983,0.0,14.519245290577828
+[28Aug2025 03:25:17.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.635824365461758,0.0,14.797982777543211
+[28Aug2025 03:25:17.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 9.814576438842323,0.0,15.07249693877202
+[28Aug2025 03:25:17.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.00069474311158,0.0,15.35832358444236
+[28Aug2025 03:25:17.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.184062978550628,0.0,15.639926904375898
+[28Aug2025 03:25:17.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.364681158570875,0.0,15.917306871750725
+[28Aug2025 03:25:17.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.542549269760912,0.0,16.19046351338875
+[28Aug2025 03:25:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.72778361183964,0.0,16.474932639468307
+[28Aug2025 03:25:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 10.91026788508816,0.0,16.755178412989153
+[28Aug2025 03:25:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of NergalAbyss) moved too quickly! 11.090002102917879,0.0,17.031200860773197
+[28Aug2025 03:25:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was shot by Stray
+[28Aug2025 03:25:59.671] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[28Aug2025 03:28:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was shot by Stray
+[28Aug2025 03:31:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was shot by Stray
+[28Aug2025 03:31:34.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was shot by Stray
+[28Aug2025 03:31:49.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Aug2025 03:31:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Aug2025 03:31:49.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Server closed
+[28Aug2025 03:31:49.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[28Aug2025 03:31:49.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Server closed
+[28Aug2025 03:31:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[28Aug2025 03:31:49.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

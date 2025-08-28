@@ -2610,6 +2610,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-23 22:01:07 +0000",
+      "minecraft:mushroom_fields": "2025-08-28 03:17:23 +0000",
       "minecraft:taiga": "2025-08-22 02:57:39 +0000",
       "minecraft:deep_ocean": "2025-08-16 04:59:03 +0000",
       "minecraft:cherry_grove": "2025-08-21 05:02:14 +0000",
@@ -2629,8 +2630,10 @@
       "minecraft:cold_ocean": "2025-08-16 04:40:21 +0000",
       "minecraft:forest": "2025-08-16 01:25:02 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 04:42:19 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-28 03:11:54 +0000",
       "minecraft:ocean": "2025-08-17 05:44:53 +0000",
       "minecraft:jungle": "2025-08-21 03:43:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-28 03:22:36 +0000",
       "minecraft:frozen_peaks": "2025-08-23 02:14:51 +0000",
       "minecraft:meadow": "2025-08-16 02:25:15 +0000",
       "minecraft:savanna": "2025-08-20 04:24:51 +0000",
@@ -10630,6 +10633,8 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_ruin_warm": "2025-08-21 04:19:01 +0000",
+      "locate_underwater_small_ruins": "2025-08-28 03:28:35 +0000",
+      "locate_underwater_city": "2025-08-28 03:21:18 +0000",
       "locate_underwater_warm_small_ruins": "2025-08-21 04:20:14 +0000",
       "locate_ruin_cold": "2025-08-21 04:32:15 +0000"
     },
@@ -13286,6 +13291,42 @@
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-08-28 01:38:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-28 03:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-28 03:17:23 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_underwater_city": {
+    "criteria": {
+      "locate_underwater_city": "2025-08-28 03:21:18 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/salmon_rolls": {
+    "criteria": {
+      "has_salmon": "2025-08-28 03:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-28 03:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-28 03:17:23 +0000"
     },
     "done": true
   },

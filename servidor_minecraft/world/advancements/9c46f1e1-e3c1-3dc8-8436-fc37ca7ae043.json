@@ -11526,6 +11526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-08-28 02:53:19 +0000"
@@ -11550,6 +11556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-28 03:28:40 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/cartography_table": {
     "criteria": {
       "has_the_recipe": "2025-08-28 02:51:24 +0000"
@@ -11559,6 +11571,12 @@
   "variantvanillablocks:recipes/misc/spruce_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
     },
     "done": true
   },
@@ -11616,6 +11634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/cherry_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
@@ -11634,6 +11658,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-08-28 03:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
@@ -11646,6 +11676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-08-28 02:51:24 +0000"
@@ -11655,6 +11691,12 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
     },
     "done": true
   },
@@ -11682,9 +11724,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-08-28 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_kitchen_sink": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
     },
     "done": true
   },
@@ -11706,15 +11760,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/birch_cartography_table": {
     "criteria": {
       "has_paper": "2025-08-28 02:51:24 +0000"
     },
     "done": true
   },
+  "candlelight:recipes/red_nether_bricks_counter": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-28 03:23:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-08-28 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-28 03:23:59 +0000"
     },
     "done": true
   },
