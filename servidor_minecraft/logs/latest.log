@@ -3402,3 +3402,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [29Aug2025 23:40:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> saapo
 [29Aug2025 23:41:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ?
 [29Aug2025 23:41:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> saaaapo
+[29Aug2025 23:49:47.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Timed out
+[29Aug2025 23:49:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[29Aug2025 23:49:47.235] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 23:49:53.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
