@@ -9720,5 +9720,17 @@
     },
     "done": true
   },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-08-30 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-08-30 00:35:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

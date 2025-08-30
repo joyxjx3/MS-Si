@@ -3401,3 +3401,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 00:22:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
 [30Aug2025 00:22:03.208] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
 [30Aug2025 00:24:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Blossoming Discoveries]
+[30Aug2025 00:25:24.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:25:24.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2775, y=73, z=3175} BlockPos{x=-2776, y=73, z=3174}
+[30Aug2025 00:27:27.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2769, y=71, z=3176} BlockPos{x=-2765, y=74, z=3176}
+[30Aug2025 00:27:27.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2769, y=71, z=3176} BlockPos{x=-2765, y=74, z=3176}
+[30Aug2025 00:28:12.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=73, z=3178} BlockPos{x=-2768, y=72, z=3178}
+[30Aug2025 00:28:12.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=73, z=3178} BlockPos{x=-2768, y=72, z=3178}
+[30Aug2025 00:28:12.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=73, z=3178} BlockPos{x=-2768, y=72, z=3178}
+[30Aug2025 00:28:13.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=71, z=3178} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:28:13.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=71, z=3178} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:28:13.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=71, z=3178} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:28:13.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=71, z=3178} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:28:13.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=71, z=3178} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:28:13.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2768, y=76, z=3177} BlockPos{x=-2769, y=72, z=3178}
+[30Aug2025 00:29:38.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2729, y=74, z=3181} BlockPos{x=-2727, y=75, z=3182}
+[30Aug2025 00:29:38.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2729, y=74, z=3181} BlockPos{x=-2727, y=75, z=3182}
+[30Aug2025 00:29:43.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2735, y=74, z=3180} BlockPos{x=-2733, y=72, z=3180}
+[30Aug2025 00:29:43.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2733, y=73, z=3181} BlockPos{x=-2734, y=74, z=3181}
+[30Aug2025 00:29:43.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2733, y=73, z=3181} BlockPos{x=-2734, y=74, z=3181}
+[30Aug2025 00:30:10.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2761, y=72, z=3180} BlockPos{x=-2762, y=72, z=3179}
+[30Aug2025 00:30:10.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2761, y=72, z=3180} BlockPos{x=-2762, y=72, z=3179}
+[30Aug2025 00:30:10.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2761, y=72, z=3180} BlockPos{x=-2762, y=72, z=3179}
+[30Aug2025 00:30:10.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2761, y=72, z=3180} BlockPos{x=-2762, y=72, z=3179}
+[30Aug2025 00:30:25.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2773, y=70, z=3179} BlockPos{x=-2773, y=71, z=3179}
+[30Aug2025 00:30:25.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2773, y=70, z=3179} BlockPos{x=-2773, y=71, z=3179}
+[30Aug2025 00:30:25.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2773, y=70, z=3179} BlockPos{x=-2773, y=71, z=3179}
+[30Aug2025 00:30:56.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.123:55829] logged in with entity id 14943 at (-13.681939588955716, 6.0, 999.9641871309225)
+[30Aug2025 00:30:56.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[30Aug2025 00:30:56.571] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[30Aug2025 00:31:41.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 10.108446415092203,0.0,1.1757957542804434
+[30Aug2025 00:31:41.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[30Aug2025 00:32:06.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/15593, l='ServerLevel[world]', x=33.10, y=48.00, z=-3.65] died: Withering Archer was slain by NergalAbyss
+[30Aug2025 00:32:18.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> NergalAbyss
+[30Aug2025 00:32:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> gay
+[30Aug2025 00:32:26.639] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Aug2025 00:32:26.640] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Aug2025 00:32:26.640] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Aug2025 00:33:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Spooky Scary Skeleton]
+[30Aug2025 00:33:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Crops of the Wild]
+[30Aug2025 00:34:51.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[30Aug2025 00:36:42.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2721, y=72, z=3190} BlockPos{x=-2721, y=71, z=3191}
+[30Aug2025 00:38:18.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[30Aug2025 00:44:27.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
+[30Aug2025 00:44:41.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
+[30Aug2025 00:45:05.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was slain by Nightmare Stalker
