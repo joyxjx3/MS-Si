@@ -3392,3 +3392,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 00:06:24.772] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
 [30Aug2025 00:08:43.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/386, l='ServerLevel[world]', x=-2814.89, y=67.25, z=3219.05] died: Honeyed Archer suffocated in a wall
 [30Aug2025 00:09:44.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Lila the Eagle'/1340, l='ServerLevel[world]', x=-2854.30, y=16.00, z=3197.30] died: Lila the Eagle was slain by Termi
+[30Aug2025 00:17:27.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2767, y=75, z=3172} BlockPos{x=-2767, y=71, z=3172}
+[30Aug2025 00:17:42.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2780, y=72, z=3177} BlockPos{x=-2780, y=70, z=3176}
+[30Aug2025 00:18:44.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2780, y=77, z=3277} BlockPos{x=-2780, y=73, z=3274}
+[30Aug2025 00:18:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Crops of the Wild]
+[30Aug2025 00:21:49.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7180, l='ServerLevel[world]', x=-2774.35, y=90.85, z=3045.27] died: Honeyed Archer burned to death
+[30Aug2025 00:22:03.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:51946] logged in with entity id 7596 at (-2655.594516978673, 72.00133597911214, 3236.89462802952)
+[30Aug2025 00:22:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
+[30Aug2025 00:22:03.208] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
+[30Aug2025 00:24:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Blossoming Discoveries]
