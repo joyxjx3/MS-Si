@@ -3616,3 +3616,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 03:53:51.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [The Wind Darkening]
 [30Aug2025 03:54:09.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Zombie
 [30Aug2025 04:10:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has reached the goal [Senior Summoner]
+[30Aug2025 04:22:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Bypassing the Expiration Date]
+[30Aug2025 04:25:13.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was slain by Zombie
+[30Aug2025 04:26:28.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Termi lost connection: Disconnected
+[30Aug2025 04:26:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi left the game
+[30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game

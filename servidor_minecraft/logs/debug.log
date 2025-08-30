@@ -22793,3 +22793,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 04:11:50.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Aug2025 04:16:49.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 04:16:50.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:21:49.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:21:50.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:22:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Bypassing the Expiration Date]
+[30Aug2025 04:25:13.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was slain by Zombie
+[30Aug2025 04:25:14.481] [Server thread/DEBUG] [twilightforest/]: Player Termi (2ee84060-1e66-3cc4-be2b-95e1c3189a8b) respawned and received items held in storage
+[30Aug2025 04:26:28.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Termi lost connection: Disconnected
+[30Aug2025 04:26:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi left the game
+[30Aug2025 04:26:49.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:26:49.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
