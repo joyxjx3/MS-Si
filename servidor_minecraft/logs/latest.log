@@ -3555,3 +3555,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 02:03:45.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2807, y=76, z=3254} BlockPos{x=-2806, y=75, z=3252}
 [30Aug2025 02:03:53.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2805, y=74, z=3247} BlockPos{x=-2805, y=73, z=3248}
 [30Aug2025 02:03:53.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2805, y=74, z=3247} BlockPos{x=-2805, y=73, z=3248}
+[30Aug2025 02:13:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Voluntary Exile]
