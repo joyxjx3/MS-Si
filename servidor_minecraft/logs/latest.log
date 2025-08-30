@@ -3456,3 +3456,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 00:46:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
 [30Aug2025 01:03:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> NergalAbyss
 [30Aug2025 01:04:14.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved wrongly!
+[30Aug2025 01:08:30.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Termi> Nergal ctm duerme
+[30Aug2025 01:08:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Termi> Gracias :3
+[30Aug2025 01:10:58.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=69, z=3184} BlockPos{x=-2716, y=68, z=3183}
+[30Aug2025 01:10:58.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:10:58.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:10:59.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:10:59.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:10:59.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:10:59.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2716, y=70, z=3184} BlockPos{x=-2716, y=69, z=3184}
+[30Aug2025 01:16:04.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 17461.848366326052,70.06552403012604,37537.10837074933
