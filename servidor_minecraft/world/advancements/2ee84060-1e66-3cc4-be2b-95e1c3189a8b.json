@@ -9726,6 +9726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-30 02:42:29 +0000"
@@ -9840,6 +9846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-08-30 02:42:23 +0000"
@@ -9909,6 +9921,18 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-30 01:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-08-30 03:53:51 +0000"
     },
     "done": true
   },
@@ -10002,6 +10026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/barley_ball": {
     "criteria": {
       "has_barley": "2025-08-30 00:46:47 +0000"
@@ -10033,6 +10063,18 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/diamond_backtank": {
+    "criteria": {
+      "has_backtank": "2025-08-30 03:47:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-08-30 03:27:43 +0000"
@@ -10054,6 +10096,18 @@
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-08-30 03:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/red_nether_bricks_kitchen_sink": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
     },
     "done": true
   },
@@ -10093,6 +10147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/corn_bag": {
     "criteria": {
       "has_corn": "2025-08-30 03:22:59 +0000"
@@ -10129,6 +10189,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/red_nether_bricks_counter": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-30 03:48:27 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-08-30 03:27:43 +0000"
@@ -10138,6 +10204,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-08-30 03:33:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:48:27 +0000"
     },
     "done": true
   },

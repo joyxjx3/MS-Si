@@ -5176,6 +5176,7 @@
       "minecraft:enderman": "2025-08-16 01:49:31 +0000",
       "minecraft:silverfish": "2025-08-22 04:25:34 +0000",
       "minecraft:stray": "2025-08-22 04:07:32 +0000",
+      "minecraft:endermite": "2025-08-30 03:53:18 +0000",
       "minecraft:vex": "2025-08-22 00:54:40 +0000",
       "minecraft:zombie": "2025-08-16 02:18:32 +0000",
       "minecraft:drowned": "2025-08-17 06:08:45 +0000",
@@ -12060,6 +12061,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-30 03:47:48 +0000"
     },
     "done": true
   },

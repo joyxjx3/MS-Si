@@ -7639,6 +7639,12 @@
     },
     "done": true
   },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 03:47:17 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/cherry_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-08-30 03:40:10 +0000"
@@ -7924,6 +7930,12 @@
   "variantvanillablocks:recipes/decorations/cherry_barrel": {
     "criteria": {
       "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/place_woodcutter": {
+    "criteria": {
+      "woodcutter": "2025-08-30 03:47:24 +0000"
     },
     "done": true
   },

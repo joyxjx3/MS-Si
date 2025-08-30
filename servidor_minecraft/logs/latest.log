@@ -3612,3 +3612,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 03:43:51.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/105497, l='ServerLevel[world]', x=89.65, y=60.00, z=14.71] died: Withering Archer was slain by Termi
 [30Aug2025 03:47:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Cut Above the Rest]
 [30Aug2025 03:47:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [A Terrible Fortress]
+[30Aug2025 03:53:36.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Natasha the Alien'/107556, l='ServerLevel[world]', x=-2778.51, y=71.00, z=3248.53] died: Natasha the Alien was slain by Termi
+[30Aug2025 03:53:51.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [The Wind Darkening]
+[30Aug2025 03:54:09.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra was slain by Zombie
