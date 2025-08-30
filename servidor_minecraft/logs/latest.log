@@ -3451,3 +3451,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 00:44:27.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
 [30Aug2025 00:44:41.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
 [30Aug2025 00:45:05.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was slain by Nightmare Stalker
+[30Aug2025 00:46:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR withered away
+[30Aug2025 00:46:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi was slain by Nightmare Stalker
+[30Aug2025 00:46:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Nightmare Stalker
+[30Aug2025 01:03:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> NergalAbyss
+[30Aug2025 01:04:14.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved wrongly!

@@ -4542,6 +4542,8 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "seared_stone": "2025-08-22 02:28:41 +0000",
+      "cobalt": "2025-08-30 00:46:47 +0000",
+      "copper": "2025-08-30 00:46:47 +0000",
       "wood": "2025-08-22 02:12:47 +0000",
       "rose_gold": "2025-08-22 03:57:17 +0000",
       "slimesteel": "2025-08-22 02:28:41 +0000",
@@ -5079,6 +5081,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2025-08-30 00:46:47 +0000",
       "cleaver": "2025-08-22 02:28:41 +0000"
     },
     "done": false
@@ -9720,15 +9723,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 00:46:46 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/find_tea_blossom": {
     "criteria": {
       "tea_blossom": "2025-08-30 00:24:21 +0000"
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-30 00:46:47 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/barley_ball": {
+    "criteria": {
+      "has_barley": "2025-08-30 00:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 00:46:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_wood": {
     "criteria": {
       "has_cherry_wood": "2025-08-30 00:35:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-30 00:46:46 +0000"
     },
     "done": true
   },

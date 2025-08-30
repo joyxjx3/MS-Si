@@ -5690,7 +5690,9 @@
     "criteria": {
       "cobalt": "2025-08-28 01:14:24 +0000",
       "copper": "2025-08-28 01:14:24 +0000",
-      "wood": "2025-08-28 01:14:24 +0000"
+      "wood": "2025-08-28 01:14:24 +0000",
+      "rose_gold": "2025-08-30 00:51:48 +0000",
+      "blazing_bone": "2025-08-30 00:51:48 +0000"
     },
     "done": false
   },
@@ -7247,6 +7249,12 @@
       "has_netherrack": "2025-08-28 03:28:29 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "melting_pan": "2025-08-30 00:51:48 +0000"
+    },
+    "done": false
   },
   "farm_and_charm:recipes/corn": {
     "criteria": {
