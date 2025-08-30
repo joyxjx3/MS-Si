@@ -6968,6 +6968,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-08-16 02:53:20 +0000",
+      "canopy_planks": "2025-08-30 03:26:59 +0000",
       "canopy_sapling": "2025-08-16 06:21:00 +0000",
       "twilight_oak_chest": "2025-08-16 04:49:30 +0000",
       "twilight_oak_log": "2025-08-16 02:43:07 +0000",
@@ -11963,6 +11964,204 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-30 03:16:25 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_shelf": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cherry_crafting_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-30 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/cherry_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:45:14 +0000"
     },
     "done": true
   },

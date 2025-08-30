@@ -3605,3 +3605,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 03:25:10.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:65070] logged in with entity id 101342 at (-13.5, 6.0, 1002.5)
 [30Aug2025 03:25:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
 [30Aug2025 03:25:10.530] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[30Aug2025 03:33:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has reached the goal [Exorcism]
+[30Aug2025 03:34:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> mamawebo
+[30Aug2025 03:42:05.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra moved wrongly!
+[30Aug2025 03:42:52.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Epic!]
+[30Aug2025 03:43:51.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/105497, l='ServerLevel[world]', x=89.65, y=60.00, z=14.71] died: Withering Archer was slain by Termi
+[30Aug2025 03:47:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Cut Above the Rest]
+[30Aug2025 03:47:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [A Terrible Fortress]

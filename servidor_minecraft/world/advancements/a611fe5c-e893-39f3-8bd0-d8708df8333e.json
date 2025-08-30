@@ -7627,9 +7627,75 @@
     },
     "done": true
   },
+  "candlelight:recipes/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_shelf": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-30 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/wailing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/cloud_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cherry_crafting_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "escalated:recipes/misc/wooden_walkway_steps": {
     "criteria": {
       "has_chain": "2025-08-30 03:19:52 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/brilliant_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
     },
     "done": true
   },
@@ -7639,15 +7705,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/pitchfork": {
     "criteria": {
       "has_iron_nugget": "2025-08-30 03:19:27 +0000"
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/warding_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/boreal_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
     },
     "done": true
   },
@@ -7663,15 +7765,69 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/life_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/love_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-30 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/containing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "escalated:recipes/misc/metal_walkway_steps": {
     "criteria": {
       "has_chain": "2025-08-30 03:19:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/empty_canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/withering_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
     },
     "done": true
   },
@@ -7687,6 +7843,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
@@ -7696,6 +7870,30 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 03:40:10 +0000"
     },
     "done": true
   },
@@ -7711,9 +7909,21 @@
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/feral_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 03:36:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-08-30 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/cherry_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-30 03:40:10 +0000"
     },
     "done": true
   },
