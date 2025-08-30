@@ -3566,3 +3566,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 02:34:24.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra moved too quickly! 9.714480944466231,0.7491870787446828,-2.62377779791359
 [30Aug2025 02:34:24.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7355ms or 147 ticks behind
 [30Aug2025 02:34:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> SAQUEN ELSERVER DE VENEZUELAAAAAAA
+[30Aug2025 02:41:06.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Disconnected
+[30Aug2025 02:41:06.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
+[30Aug2025 02:45:46.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:38190] logged in with entity id 86218 at (-2688.799096111884, 72.0, 3217.1525923076133)
+[30Aug2025 02:45:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
+[30Aug2025 02:45:46.718] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
