@@ -3058,7 +3058,8 @@
     "criteria": {
       "twilight_oak_planks": "2025-08-22 02:07:01 +0000",
       "twilight_oak_log": "2025-08-22 02:06:38 +0000",
-      "twilight_oak_sapling": "2025-08-22 02:06:55 +0000"
+      "twilight_oak_sapling": "2025-08-22 02:06:55 +0000",
+      "canopy_button": "2025-08-30 04:12:10 +0000"
     },
     "done": false
   },
@@ -5470,7 +5471,8 @@
       "minecraft:stray": "2025-08-22 04:19:41 +0000",
       "minecraft:vex": "2025-08-22 02:58:22 +0000",
       "minecraft:zombie": "2025-08-22 03:10:52 +0000",
-      "minecraft:drowned": "2025-08-22 02:40:54 +0000"
+      "minecraft:drowned": "2025-08-22 02:40:54 +0000",
+      "minecraft:zombie_villager": "2025-08-30 04:10:25 +0000"
     },
     "done": false
   },
@@ -9789,6 +9791,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-08-30 02:13:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-08-30 04:10:10 +0000"
     },
     "done": true
   },
