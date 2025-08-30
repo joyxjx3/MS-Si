@@ -9904,6 +9904,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-08-30 01:59:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_pumpkin_slice": "2025-08-30 01:49:38 +0000"

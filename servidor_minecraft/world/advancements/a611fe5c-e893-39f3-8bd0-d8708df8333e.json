@@ -7251,11 +7251,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "farm_and_charm:recipes/corn_bag": {
     "criteria": {
-      "has_stone": "2025-08-30 01:12:33 +0000"
+      "has_corn": "2025-08-30 00:26:41 +0000"
     },
     "done": true
+  },
+  "farm_and_charm:recipes/corn": {
+    "criteria": {
+      "has_kernels": "2025-08-30 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "melting_pan": "2025-08-30 00:51:48 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
@@ -7263,13 +7275,23 @@
     },
     "done": true
   },
-  "twilightforest:arborist": {
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
-      "canopy_planks": "2025-08-30 01:36:28 +0000",
-      "canopy_fence": "2025-08-30 01:38:44 +0000",
-      "canopy_log": "2025-08-30 01:36:22 +0000"
+      "has_item": "2025-08-30 01:08:38 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-08-30 01:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-30 01:12:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -7280,18 +7302,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-30 01:12:33 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_sign": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_fence": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
     },
     "done": true
   },
@@ -7313,54 +7323,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "melting_pan": "2025-08-30 00:51:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-30 01:13:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_chest": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/corn": {
-    "criteria": {
-      "has_kernels": "2025-08-30 00:27:02 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_button": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_plate": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-08-30 01:12:33 +0000"
@@ -7370,30 +7332,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-30 01:12:33 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-08-30 01:32:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
-    "criteria": {
-      "has_item": "2025-08-30 01:08:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_gate": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
     },
     "done": true
   },
@@ -7421,21 +7359,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-30 01:12:33 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/corn_bag": {
-    "criteria": {
-      "has_corn": "2025-08-30 00:26:41 +0000"
     },
     "done": true
   },
@@ -7457,27 +7383,41 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_door": {
-    "criteria": {
-      "has_item": "2025-08-30 01:36:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-30 01:12:33 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+  "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
-      "has_item": "2025-08-30 01:08:38 +0000"
+      "has_wood": "2025-08-30 01:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-30 01:13:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-08-30 01:32:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2025-08-30 01:36:28 +0000",
+      "canopy_fence": "2025-08-30 01:38:44 +0000",
+      "canopy_log": "2025-08-30 01:36:22 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:22 +0000"
     },
     "done": true
   },
@@ -7487,9 +7427,69 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/arrow_slits_gothic": {
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
     "criteria": {
-      "has_wood": "2025-08-30 01:12:33 +0000"
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-08-30 01:36:28 +0000"
     },
     "done": true
   },
