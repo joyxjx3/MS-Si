@@ -3556,3 +3556,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 02:03:53.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2805, y=74, z=3247} BlockPos{x=-2805, y=73, z=3248}
 [30Aug2025 02:03:53.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2805, y=74, z=3247} BlockPos{x=-2805, y=73, z=3248}
 [30Aug2025 02:13:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Voluntary Exile]
+[30Aug2025 02:33:13.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13403ms or 268 ticks behind
+[30Aug2025 02:33:32.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra moved too quickly! -9.977564043835624,-0.5,2.3118220669812217
+[30Aug2025 02:33:42.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14533ms or 290 ticks behind
+[30Aug2025 02:33:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> af'oasjfo'ajofp´jmao´fjm
+[30Aug2025 02:33:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Termi> astdjastaipdsjy
+[30Aug2025 02:34:24.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -10.032697520546208,0.0,-0.5047248499581656
+[30Aug2025 02:34:24.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Termi moved too quickly! -0.15136286701635981,0.0,10.018829774433925
+[30Aug2025 02:34:24.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra moved too quickly! 9.714480944466231,0.7491870787446828,-2.62377779791359
+[30Aug2025 02:34:24.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7355ms or 147 ticks behind
+[30Aug2025 02:34:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> SAQUEN ELSERVER DE VENEZUELAAAAAAA

@@ -7499,6 +7499,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_wall": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-30 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-30 02:28:31 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-08-30 02:24:28 +0000"
@@ -7586,6 +7598,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-08-30 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-30 02:28:31 +0000"
     },
     "done": true
   },
