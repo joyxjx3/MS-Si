@@ -9717,9 +9717,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-30 01:49:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-08-30 00:18:48 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/wailing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-30 01:51:11 +0000"
     },
     "done": true
   },
@@ -9729,9 +9747,75 @@
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/cloud_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-30 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-30 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-30 01:50:32 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/brilliant_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-08-30 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/warding_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/boreal_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-08-30 01:49:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-30 01:49:29 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/life_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
     },
     "done": true
   },
@@ -9741,9 +9825,27 @@
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/love_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/containing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/modified": {
     "criteria": {
       "crafted_tool": "2025-08-30 00:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-30 01:49:29 +0000"
     },
     "done": true
   },
@@ -9753,9 +9855,40 @@
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/withering_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-30 01:49:25 +0000",
+      "has_the_recipe": "2025-08-30 01:49:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-08-30 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-30 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/smoker": {
+    "criteria": {
+      "has_variant_item": "2025-08-30 01:55:46 +0000"
     },
     "done": true
   },
@@ -9765,9 +9898,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-08-30 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-08-30 01:49:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-08-30 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-08-30 01:49:38 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/feral_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-30 01:50:34 +0000"
     },
     "done": true
   },

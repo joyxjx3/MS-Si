@@ -3481,3 +3481,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 01:43:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> que anda haciendo
 [30Aug2025 01:43:30.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> ?
 [30Aug2025 01:43:35.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tetranutra> pinga
+[30Aug2025 01:49:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Hunt and Gather]
+[30Aug2025 01:53:00.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tetranutra lost connection: Disconnected
+[30Aug2025 01:53:00.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra left the game
