@@ -11828,6 +11828,30 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-08-30 00:33:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-30 00:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-30 02:08:14 +0000"
@@ -11843,12 +11867,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-30 02:08:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-08-30 00:33:27 +0000"
     },
     "done": true
   },
@@ -11870,12 +11888,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-30 00:33:28 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-08-30 02:08:14 +0000"
@@ -11885,12 +11897,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-30 02:08:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-30 00:33:28 +0000"
     },
     "done": true
   },
@@ -11954,9 +11960,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_cabbage": "2025-08-30 00:33:28 +0000"
+      "hero_of_the_village": "2025-08-30 03:16:25 +0000"
     },
     "done": true
   },

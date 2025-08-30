@@ -3589,3 +3589,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 03:07:21.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92838, l='ServerLevel[world]', x=-1764.50, y=68.00, z=4008.70] died, message: 'Unemployed was slain by Vindicator'
 [30Aug2025 03:07:29.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
 [30Aug2025 03:07:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[30Aug2025 03:12:24.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:64352] logged in with entity id 96663 at (-1804.5, 73.03584062504456, 4035.5)
+[30Aug2025 03:12:24.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[30Aug2025 03:12:24.877] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[30Aug2025 03:15:07.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92770, l='ServerLevel[world]', x=-1761.40, y=64.00, z=4009.30] died, message: 'Unemployed was slain by Vindicator'
+[30Aug2025 03:16:25.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has completed the challenge [Hero of the Village]
+[30Aug2025 03:16:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has completed the challenge [Hero of the Village]
+[30Aug2025 03:19:50.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7168ms or 143 ticks behind
