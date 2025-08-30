@@ -22804,3 +22804,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 04:26:49.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
 [30Aug2025 04:27:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[30Aug2025 04:31:49.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:31:49.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:36:49.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:36:49.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:39:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra has made the advancement [Deceived Hopes]
