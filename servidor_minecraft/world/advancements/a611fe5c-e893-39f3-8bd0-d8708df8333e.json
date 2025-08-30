@@ -7415,6 +7415,7 @@
       "canopy_trapdoor": "2025-08-30 03:04:34 +0000",
       "canopy_door": "2025-08-30 02:52:07 +0000",
       "canopy_planks": "2025-08-30 01:36:28 +0000",
+      "canopy_sapling": "2025-08-30 03:25:18 +0000",
       "canopy_fence": "2025-08-30 01:38:44 +0000",
       "canopy_stairs": "2025-08-30 03:04:07 +0000",
       "canopy_log": "2025-08-30 01:36:22 +0000",
@@ -7626,9 +7627,45 @@
     },
     "done": true
   },
+  "escalated:recipes/misc/wooden_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-08-30 03:19:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/pitchfork": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-30 03:19:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-30 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-30 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/metal_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-08-30 03:19:52 +0000"
     },
     "done": true
   },
@@ -7665,6 +7702,18 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-30 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-08-30 03:25:25 +0000"
     },
     "done": true
   },

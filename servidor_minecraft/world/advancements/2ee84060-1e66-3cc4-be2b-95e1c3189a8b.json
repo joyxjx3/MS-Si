@@ -4643,6 +4643,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2025-08-30 03:22:04 +0000",
       "wheat": "2025-08-22 02:16:55 +0000",
       "carrot": "2025-08-22 02:16:31 +0000"
     },
@@ -9856,6 +9857,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/corn": {
+    "criteria": {
+      "has_kernels": "2025-08-30 03:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-08-30 01:51:11 +0000"
@@ -9907,6 +9914,12 @@
   "arcanelanterns:recipes/misc/containing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce": {
+    "criteria": {
+      "has_tomato_seeds": "2025-08-30 03:22:10 +0000"
     },
     "done": true
   },
@@ -10001,6 +10014,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-08-30 03:22:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage": {
     "criteria": {
       "has_cabbage_crate": "2025-08-30 01:53:31 +0000"
@@ -10052,6 +10071,12 @@
   "arcanelanterns:recipes/misc/feral_lantern": {
     "criteria": {
       "has_lantern": "2025-08-30 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/place_seeds": {
+    "criteria": {
+      "lettuce": "2025-08-30 03:22:51 +0000"
     },
     "done": true
   },
