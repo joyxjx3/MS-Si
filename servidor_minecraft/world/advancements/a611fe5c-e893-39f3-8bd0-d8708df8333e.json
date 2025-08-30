@@ -5671,7 +5671,8 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
-      "excavator": "2025-08-28 01:14:24 +0000"
+      "excavator": "2025-08-28 01:14:24 +0000",
+      "vein_hammer": "2025-08-30 02:56:22 +0000"
     },
     "done": false
   },
@@ -5690,10 +5691,12 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "cobalt": "2025-08-28 01:14:24 +0000",
+      "seared_stone": "2025-08-30 02:56:22 +0000",
       "copper": "2025-08-28 01:14:24 +0000",
       "wood": "2025-08-28 01:14:24 +0000",
       "rose_gold": "2025-08-30 00:51:48 +0000",
-      "blazing_bone": "2025-08-30 00:51:48 +0000"
+      "blazing_bone": "2025-08-30 00:51:48 +0000",
+      "hepatizon": "2025-08-30 02:56:22 +0000"
     },
     "done": false
   },
@@ -7409,9 +7412,13 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_trapdoor": "2025-08-30 03:04:34 +0000",
+      "canopy_door": "2025-08-30 02:52:07 +0000",
       "canopy_planks": "2025-08-30 01:36:28 +0000",
       "canopy_fence": "2025-08-30 01:38:44 +0000",
-      "canopy_log": "2025-08-30 01:36:22 +0000"
+      "canopy_stairs": "2025-08-30 03:04:07 +0000",
+      "canopy_log": "2025-08-30 01:36:22 +0000",
+      "canopy_slab": "2025-08-30 03:04:01 +0000"
     },
     "done": false
   },
@@ -7616,6 +7623,48 @@
   "create:recipes/building_blocks/cut_diorite_brick_slab": {
     "criteria": {
       "has_cut_diorite_bricks": "2025-08-30 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/empty_canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_banister": {
+    "criteria": {
+      "has_item": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-30 03:04:01 +0000"
     },
     "done": true
   },

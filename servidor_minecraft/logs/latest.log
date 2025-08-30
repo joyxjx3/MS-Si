@@ -3571,3 +3571,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 02:45:46.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tetranutra[/192.168.193.26:38190] logged in with entity id 86218 at (-2688.799096111884, 72.0, 3217.1525923076133)
 [30Aug2025 02:45:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetranutra joined the game
 [30Aug2025 02:45:46.718] [Server thread/INFO] [Jade/]: Syncing config to Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e)
+[30Aug2025 02:53:00.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[30Aug2025 02:54:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [We Need to Go Deeper]
+[30Aug2025 02:54:28.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5856ms or 117 ticks behind
+[30Aug2025 02:54:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [A Terrible Fortress]
+[30Aug2025 02:54:29.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 8.636486956658246,0.0,5.0861156528908396
+[30Aug2025 02:56:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has made the advancement [Best Friends Forever]
+[30Aug2025 03:00:07.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[30Aug2025 03:03:48.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92717, l='ServerLevel[world]', x=-1810.30, y=72.00, z=4021.07] died, message: 'Unemployed was sniped by Archer'
+[30Aug2025 03:04:36.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/92549, l='ServerLevel[world]', x=-1825.10, y=80.23, z=4074.03] died, message: 'Mason was shot by Pillager'
+[30Aug2025 03:06:30.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/92836, l='ServerLevel[world]', x=-1773.04, y=65.00, z=4030.36] died, message: 'Leatherworker was shot by Pillager'
+[30Aug2025 03:06:47.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/92829, l='ServerLevel[world]', x=-1774.29, y=65.13, z=4030.97] died, message: 'Nitwit was shot by Pillager'
+[30Aug2025 03:06:51.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92771, l='ServerLevel[world]', x=-1784.09, y=62.28, z=4050.53] died, message: 'Unemployed was slain by Zombie'
+[30Aug2025 03:06:59.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92839, l='ServerLevel[world]', x=-1762.70, y=68.00, z=4008.70] died, message: 'Unemployed was slain by Vindicator'
+[30Aug2025 03:07:12.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92700, l='ServerLevel[world]', x=-1764.50, y=64.00, z=4014.70] died, message: 'Unemployed was slain by Vindicator'
+[30Aug2025 03:07:17.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Vindicator
+[30Aug2025 03:07:21.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92838, l='ServerLevel[world]', x=-1764.50, y=68.00, z=4008.70] died, message: 'Unemployed was slain by Vindicator'
+[30Aug2025 03:07:29.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[30Aug2025 03:07:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
