@@ -7418,6 +7418,7 @@
       "canopy_sapling": "2025-08-30 03:25:18 +0000",
       "canopy_fence": "2025-08-30 01:38:44 +0000",
       "canopy_stairs": "2025-08-30 03:04:07 +0000",
+      "canopy_button": "2025-08-30 04:02:28 +0000",
       "canopy_log": "2025-08-30 01:36:22 +0000",
       "canopy_slab": "2025-08-30 03:04:01 +0000"
     },
@@ -7702,6 +7703,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-08-30 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_brick_slab": "2025-08-30 04:01:03 +0000"
     },
     "done": true
   },

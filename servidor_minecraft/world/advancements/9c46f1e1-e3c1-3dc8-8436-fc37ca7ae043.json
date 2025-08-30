@@ -12094,6 +12094,12 @@
     },
     "done": true
   },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-08-30 04:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-08-30 03:45:14 +0000"

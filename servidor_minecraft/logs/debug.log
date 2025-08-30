@@ -22784,3 +22784,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [30Aug2025 03:54:10.643] [Server thread/DEBUG] [twilightforest/]: Player Tetranutra (a611fe5c-e893-39f3-8bd0-d8708df8333e) respawned and received items held in storage
 [30Aug2025 03:56:49.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 03:56:50.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:01:49.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:01:50.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:06:49.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 04:06:50.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 04:10:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Termi has reached the goal [Senior Summoner]
